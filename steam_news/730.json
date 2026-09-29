@@ -1,0 +1,1252 @@
+[
+  {
+    "gid": "1844751498232642",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1790635105,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Fixed pixel-gaps in various Rush rooms.Clipping adjustments in T/CT Castle rooms."
+  },
+  {
+    "gid": "1844751498226015",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1790373294,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Various gap fixes and clipping adjustments.\\Fixed some cases where loud reloads would persist while trying to stealth reload.\\Added sv_clantags_enabled option so custom servers can disable clan tags.The eggs of background players in main menu lobbies now rest in nests."
+  },
+  {
+    "gid": "1844751498222773",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1790286698,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Added a better description of the rules to the loading screen.Adjusted rules for determining when to kick players due to team damage.Various clipping adjustments.\\Fixed a case where it was possible to get a slightly faster silent reload by tapping the reload button before holding it.Fixed a case where it was possible to use silent reload to fire shotguns faster than normal.\\Fixed a case where the AK-47 inspect animation sometimes popped."
+  },
+  {
+    "gid": "1844751498219795",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1790204844,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconnects.Warmup time once all players have connected, freeze time, and technical timeout time are all reduced.Various gap fixes and clipping adjustments.\\Some additional information about the new crosshair system:The new crosshair thickness and length units are in p..."
+  },
+  {
+    "gid": "1844751498218029",
+    "appid": 730,
+    "title": "Counter-Strike 2 adds an intense fast-paced 3v3 'Rush' game mode",
+    "author": "",
+    "date": 1790159109,
+    "feedlabel": "GamingOnLinux",
+    "feedname": "GamingOnLinux",
+    "tags": null,
+    "contents": "This new Rush mode might be my favourite way to play Counter-Strike 2, giving you a faster-paced experience with shorter matches. Read the full article here: https://www.gamingonlinux.com/2026/09/counter-strike-2-adds-an-intense-fast-paced-3v3-rush-game-mode/ "
+  },
+  {
+    "gid": "1844751498217397",
+    "appid": 730,
+    "title": "Большое обновление для Counter-Strike 2 принесло в игру новый режим, бесшумную перезарядку и яйца",
+    "author": "",
+    "date": 1790139805,
+    "feedlabel": "PlayGround.ru - официальная группа",
+    "feedname": "PlayGround.ru - официальная группа",
+    "tags": null,
+    "contents": "Тактический шутер Counter-Strike 2 получил очередной апдейт. В отличие от предыдущих балансных патчей, в этот раз разработчики из Valve решили удивить игроков, и обновление получилось действительно масштабным на нововведения. Апдейт весом 4,7 ГБ не только принес новый контент в игру, но и изменил привычные моменты, которые многие пользователи уже посчитали кардинально ломающими привычный соревновательный процесс. Главные споры в сообществе вызвали нововведения в механике скрытности: Теперь игрок..."
+  },
+  {
+    "gid": "1844751498216926",
+    "appid": 730,
+    "title": "Rush Hour",
+    "author": "brianlev",
+    "date": 1790120317,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Put your foot on the gas and floor it. Welcome to Rush, a new fast-paced 3v3 queued mode for CS2. Experience the push and pull as you advance through a gauntlet of randomly-selected battle arenas, and dominate your opponent to win the match! Make the most of your limited budget and precious time to clear the objective. Control the tower when you eliminate the enemy team (or time expires) to win the round. https://clan.fastly.steamstatic.com/images/3381077/4ccfe4f44119ac6ddd5cd39d24c907dd11f4c70a..."
+  },
+  {
+    "gid": "1844751498216924",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "brianlev",
+    "date": 1790120256,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Updated the map selection process to give players more opportunities to play maps they've been learning.Map selection process:Team 1 picks one mapTeam 2 picks two mapsTeam 1 picks a final map. One of the four maps will be randomly selected and the match will begin.\\Rush is a fast-paced queued 3v3 game mode. Players battle through a series of battle arenas to reach the opponent's castle and win the match.Battle arenas are randomly selected for each match, so no two matches are the same.Control t..."
+  },
+  {
+    "gid": "1844115010499298",
+    "appid": 730,
+    "title": "Создатель Counter-Strike объяснил исчезновение классического режима со спасением заложников из-за киберспорта",
+    "author": "",
+    "date": 1789841729,
+    "feedlabel": "PlayGround.ru - официальная группа",
+    "feedname": "PlayGround.ru - официальная группа",
+    "tags": null,
+    "contents": "Соавтор оригинальной Counter-Strike Мин Ли рассказал о причинах постепенного заката классического режима со спасением заложников, который стоял у истоков культовой франшизы. В рамках интервью независимому блогеру разработчик отметил, что стремительное развитие соревновательной сцены вынесло приговор сценариям с префиксом cs_, сместив весь фокус компании Valve и игрового сообщества на разминирование бомбы. Изначальная концепция командного шутера в 1999 году строилась именно вокруг спецопераций по..."
+  },
+  {
+    "gid": "1843481262690556",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "tomd",
+    "date": 1788994268,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes",
+      "mod_reviewed",
+      "ModAct_487176015_1788994844_0",
+      "mod_require_rereview"
+    ],
+    "contents": "\\CacheFixed various gaps in map.Fixed a wallbang spot on B site.Added a missing competitive CT spawn point.Added additional T spawn points.\\Reworked CSPlayerCamera:Renamed it to CustomPlayerCamera.Added GetPlayer, GetMode, SetMode, and SetFollowConfig.Deprecated IsEnabled, SetEnabled, and SetIsControllingAngles.Added an 'observable' property to custom_hud_layout that controls whether an observer sees the UI as the spectated player sees it. Defaults to false.Fixed several bugs related to stale cu..."
+  },
+  {
+    "gid": "1841579228676851",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "tomd",
+    "date": 1787614760,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Added custom_hud_layout entity:custom_hud_layouts are the entry point for scripted maps to provide custom UI.Panel, Label, Image, and Button panel types are supported.Styling with css is supported.Events and client side scripting are not supported.Maintains state during tools mode reloads.Added cs_player_camera entity:Gives control of a player's view without moving their pawn.Can be configured to let the player look around from the scripted position.Added Instance.DelayAdded Instance.OnBombPlan..."
+  },
+  {
+    "gid": "1841579228663932",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "tomd",
+    "date": 1787182593,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\BoulderUpdated to the latest version from the Community Workshop (Update Notes)PoseidonUpdated to the latest version from the Community Workshop (Update Notes)\\Fixed a case where player speed was too high when moving against walls."
+  },
+  {
+    "gid": "1840944183775194",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "tomd",
+    "date": 1786575047,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\FachwerkUpdated to the latest version from the Community Workshop (Update Notes)ShelterUpdated to the latest version from the Community Workshop (Update Notes)"
+  },
+  {
+    "gid": "1839676055895877",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1785791934,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Fixed a case where grenades could be thrown through level geometry\\CacheFixed various gaps in mapFixed collision in various spots across mapFixed flickering on some assetsRemoved boost spot in Outside AShelterUpdated to the latest version from the Community Workshop (Update Notes)\\Added Instance.TracePlayerAdded Instance.OnWeaponPickupAdded Instance.OnBombExplodeAdded Instance.SpawnGrenadeProjectileAdded dropper to Instance.OnWeaponDrop eventAdded hitEntity to Instance.OnGrenadeBounce eventAdde..."
+  },
+  {
+    "gid": "1839676055881227",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1785285504,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\The Ranked Series stickers are now available for purchase. 50% of royalties are shared with players, teams, and the tournament organizer.Items in the the Cologne 2026 Shop will be available for purchase until September 29th.\\Fixed a bug where scripts would fail to load in tools mode until a manual recompile. \\BoulderUpdated to the latest version from the Community Workshop (Update Notes)FachwerkUpdated to the latest version from the Community Workshop (Update Notes)ShelterUpdated to the latest ..."
+  },
+  {
+    "gid": "1839676055881226",
+    "appid": 730,
+    "title": "Cologne 2026: Ranked Series",
+    "author": "brianlev",
+    "date": 1785285490,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "https://clan.fastly.steamstatic.com/images/3381077/81b4cf3f2d2130bd4aed48bad3d2d5e5ee061756.png Today we're shipping the Ranked Series of Cologne 2026 Major stickers--new stickers that indicate a team's final standing in the design. As with all items in the Cologne 2026 Shop, 50% of the royalties support the teams, players and tournament organizer. The original dynamic pricing system determined the relative interest in players and teams, but it didn't produce reasonable prices. So the Ranked sti..."
+  },
+  {
+    "gid": "1838407329267700",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1784589216,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\The bomb damage health preview is now revealed when the bomb becomes audible.The bomb explosion now interacts with smoke grenade clouds and molotov/incendiary fire. \\FachwerkUpdated to the latest version from the Community Workshop (Update Notes)BoulderUpdated to the latest version from the Community Workshop (Update Notes)DebrisUpdated to the latest version from the Community Workshop (Update Notes)\\Added Workshop maps section to Play menu for Counter-Strike in Steam China.Added a shortcut to ..."
+  },
+  {
+    "gid": "1838407329258098",
+    "appid": 730,
+    "title": "Call II Arms-ory",
+    "author": "COMPLEX",
+    "date": 1784245194,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "hide_store",
+      "hide_library_overview",
+      "patchnotes",
+      "workshop",
+      "hide_library_detail"
+    ],
+    "contents": "Last week we released new weapon and sticker collections from our previous Call to Arms-ory. Congratulations to the artists who had their items included! Now that these items are available, we're looking for new items for one new weapon collection: - Fairy Tales And two new sticker collections: - Cryptids - Pop Art To submit weapon finishes and stickers to this Call to Arms, select the appropriate option using the Counter-Strike 2 Workshop Tool: https://clan.fastly.steamstatic.com/images/3381077..."
+  },
+  {
+    "gid": "1838407329252903",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "mcjohn",
+    "date": 1784076120,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\FachwerkUpdated to the latest version from the Community Workshop (Update Notes).BoulderUpdated to the latest version from the Community Workshop (Update Notes).ShelterUpdated to the latest version from the Community Workshop (Update Notes).El DoradoUpdated to the latest version from the Community Workshop (Update Notes).\\Various stability and security fixes."
+  },
+  {
+    "gid": "1836506165584645",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1783633576,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Removed map-wide minimum one point of damage from new C4 explosions.Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.New C4 explosions now apply more force to dropped weapons.\\Adjusted the \"Sniper Ahead\" sticker visibility when scraped.\\Fixed a case where season medals were missing their gold tint on one of the bars.Fixed a case where the scoreboard wouldn't update while open.Various stability improvements."
+  },
+  {
+    "gid": "1836506165581827",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "brianlev",
+    "date": 1783551091,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Premier Season Five has begunAdded Cache to the Active Duty Map PoolRemoved Overpass from the Active Duty Map Pool\\Re-designed effective range and extent of C4 explosion damage on all official defusal-mode maps.Damage is now applied according to precomputed simulation values, baked into the compiled map.Explosion shockwave damage now rapidly expands from the center of the explosion instead of being applied instantly.Fixed case where picking up dropped weapons through the Buy Menu would fail to ..."
+  },
+  {
+    "gid": "1836506165581825",
+    "appid": 730,
+    "title": "Season 5, Armory, and More",
+    "author": "brianlev",
+    "date": 1783551043,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Reporting for Active Duty https://clan.fastly.steamstatic.com/images/3381077/bace68e72c87d8b04e5b28953e2de63dda54d9c8.png Cache has officially arrived, and replaces Overpass in the active duty map pool. Put your hard-earned strats to the test and rise through the Premier ranks in CS2's newest battlefield. Get out of there, it's gonna blow! https://clan.fastly.steamstatic.com/images/3381077/ace20715ffc694f3f4b2cad5e1f0db5c00340b00.png Season 5 has arrived with some explosive changes to CS2--bomb ..."
+  },
+  {
+    "gid": "1836506165572678",
+    "appid": 730,
+    "title": "Counter-Strike 2 might be the biggest game on Steam, but Global Offensive is breaking player count records since it went standalone again",
+    "author": "Justin Wagner",
+    "date": 1783183401,
+    "feedlabel": "PC Gamer",
+    "feedname": "PC Gamer",
+    "tags": null,
+    "contents": "nytime you're talking about the hottest game on Steam, there's an evergreen unspoken caveat: 'after Counter-Strike, of course.' CS2 is unquestionably Steam's killer app—it has <a href=\"https://steamdb.info/app/730/charts/\" target=\"_blank\">well over a million concurrent players</a> as I write this according to SteamDB, and it's showing no signs of slowing down. But don't count out the game it <a href=\"https://www.pcgamer.com/counter-strike-2-released/\">once absorbed</a> and <a href=\"https://www.pcgamer.com/games/fps/counter-strike-global-offensive-is-back-3-years-after-it-was-muscled-out-by-counter-strike-2-cs-go-has-its-own-steam-page-again-and-has-powered-its-way-back-onto-steams-most-played-chart/\">then spat out</a>: its predecessor, Global Offensive... <a href=\"https://www.pcgamer.com/games/fps/counter-strike-2-might-be-the-biggest-game-on-steam-but-global-offensive-is-breaking-player-count-records-since-it-went-standalone-again/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>"
+  },
+  {
+    "gid": "1836506165571358",
+    "appid": 730,
+    "title": "The Jackass Sticker Capsule",
+    "author": "COMPLEX",
+    "date": 1783108086,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "https://clan.fastly.steamstatic.com/images/3381077/cc6a469cea898157d07b667ed256a3801cd737e2.png Today we’re excited to release the Jackass Sticker Capsule in association with Paramount Games Studio, Jackass graphic artist Andy Jenkins, and community artist TheDanidem. Celebrating the release of jackass: best and last, the Jackass Sticker Capsule contains 39 stickers referencing iconic Jackass moments. Whether it’s an airhorn on a golf course or a trip down Electric Avenue, there’s something for ..."
+  },
+  {
+    "gid": "1836506165564136",
+    "appid": 730,
+    "title": "Team Falcons' Finale",
+    "author": "COMPLEX",
+    "date": 1782874684,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpgTaking on the toughest Playoff bracket in Major history, the Falcons made a triumphant statement at the IEM Cologne 2026 Major. Facing the defending Major Champions in the Quarterfinals, Falcons defeated Vitality 2-1, with each map taking 24 rounds to determine a winner. The Semifinals weren't any easier, where the Falcons met Team Spirit in a best of three that saw two maps go to Overtime. In the end,..."
+  },
+  {
+    "gid": "1836506165564135",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "brianlev",
+    "date": 1782874677,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Champions Autograph Stickers are now available for purchase in the Major Shop, congratulations to the Falcons!Highlight Souvenir Charms are now available for purchase in the Major Shop, featuring 10 highlights for each of the six stages of the Cologne 2026 Major, and the Falcons' trophy-lifting moment."
+  },
+  {
+    "gid": "1835871199310024",
+    "appid": 730,
+    "title": "The IEM Cologne 2026 Grand Finals",
+    "author": "COMPLEX",
+    "date": 1781988714,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png Following one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship. After losing the opening map of their Playoffs, FURIA have been unbeaten, rallying back against 9z Team to win 2-1 in the Quarterfinals and taking down Aurora Gaming 2-0 in the Semifinals to reach the Grand Finals for the first time in the organizatio..."
+  },
+  {
+    "gid": "1835871199302220",
+    "appid": 730,
+    "title": "Playoffs at the \"Cathedral of Counter-Strike\"",
+    "author": "COMPLEX",
+    "date": 1781738540,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Playoffs at the IEM Cologne 2026 Major begin tomorrow and the \"Cathedral of Counter-Strike\" awaits. https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png For the second consecutive Major, FURIA and Team Spirit finished Stage III with perfect 3-0 records. Aurora, Falcons, and Vitality finished 3-1, and 9z Team, BetBoom, and G2 Esports advanced with 3-2 records. The Lanxess Arena will host the Playoffs, beginning with Thursday's Quarterfinals matchups: 9z ..."
+  },
+  {
+    "gid": "1835236783558731",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1781126525,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.\\Added multi-select functionality in Storage Units deposit/retrieve UI.Added appropriate error message when user's inventory is full and they try to redeem Weekly Care Package rewards, Armory items, or items in the Major Shop cart.Fixed number wrapping rules in some languages."
+  },
+  {
+    "gid": "1833968530889736",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "brianlev",
+    "date": 1780013843,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Added ability to bookmark stickers in Cologne 2026 Shop.\\Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.Flashbang effect for remote spectators now renders underneath the HUD.Stability improvements\\AncientUpdated clipping to prevent certain boost locationsSanctumUpdated to the latest version from Steam Workshop (Update Notes)"
+  },
+  {
+    "gid": "1833334318570412",
+    "appid": 730,
+    "title": "IEM Cologne 2026",
+    "author": "brianlev",
+    "date": 1779410446,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "The IEM Cologne 2026 Major is fast approaching. Teams are making final adjustments, fine-tuning their strats, and crossing their fingers that they won't face Vitality until the Grand Final. That can only mean one thing: Tournament Items featuring Teams and Player Autographs are now available for purchase! The 2026 Cologne Major Shop https://clan.akamai.steamstatic.com/images/3381077/8f7212f18c038fcecaa6c96cfeb9785f14d74489.png The Major Shop has undergone some major renovation--now you can direc..."
+  },
+  {
+    "gid": "1833334318570409",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "brianlev",
+    "date": 1779410434,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\The IEM Cologne 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.Purchase a Cologne 2026 Viewer Pass to receive an upgradable Cologne 2026 Coin. With an active pass, you can upgrade your coin and earn rewards by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick'Em Challenge performance to your friends.\\Fixed a case of incorrect scoreboard timeline presentati..."
+  },
+  {
+    "gid": "1833334318567523",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1779318374,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\CacheAdjusted player and grenade collision.Adjusted material blending to improve accuracy of footstep sounds.Fixed several gaps reported by players.AncientFixed a gap in the wall."
+  },
+  {
+    "gid": "1832700592799760",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1779147368,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.Fixed a case of stuck x-ray silhouettes when switching spectator targets.Fixed spectator damage overlay effect.\\Added weapon_accuracy_stack_boost_limit (default value \"2\") to apply ladder inaccuracy to players boosted by a stack of this many or more players.Adjustments to AWP draw to idle animation transition.Improved consistency of grenade jump throws and the accuracy of the j..."
+  },
+  {
+    "gid": "1832700592790456",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "daVinci1980",
+    "date": 1778797438,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\CacheFixed various holes in mapFixed surfacetypes for various materials.Added grating to some windows to make them block bullets.Tweaks to player and grenade clipping.\\Fixed a case where it was possible to cancel a grenade throw after the throw was started near the end of the pin pull animation.Miscellaneous stability improvements.\\Fixed bug that prevented the asset in use from being selected when model browser was opened.Fixed bug with layered materials with same surface property on all layers..."
+  },
+  {
+    "gid": "1832065502813483",
+    "appid": 730,
+    "title": "NIGHTMODE II Music Kits",
+    "author": "COMPLEX",
+    "date": 1778191843,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png Today we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring: ALRT, DOPAMINE HIT Altare, Change My Mind borne, Give It To Me Pirapus, EVERYNITE Repiet & Julia Kleijn, On And On ShockOne, Voices Alongside new music kits, we've continued updating Cache and made other miscellaneous fixes. Release Notes for today's update can be fo..."
+  },
+  {
+    "gid": "1832065502813482",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "tomd",
+    "date": 1778191777,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\CacheFixed various holes in map.Simplified grenade clipping in various areas.Fixed sounds and surfacetypes for various materials.Orange wire spool at Sandbags has been exchanged for white wire.\\NIGHTMODE II Music Kits are now available for purchase in standard and StatTrak versions through the STORE tab.\\Fixed progressive refinement rendering Source Film Maker.\\User Viewmodel FOV now correctly networks to remote clients.Adjusted player model occlusion bounds.Fixed ragdolls missing death velocit..."
+  },
+  {
+    "gid": "1831432155569878",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1777589209,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\CacheMap-wide clipping fixes and geometry polish.Fixed some spots where bomb would be unreachable when dropped.Fixed dynamic shadows breaking in some spots.Fixed some surface sound types.\\Fixed hand popping when counter-strafing with a grenade equipped.\\Limit aim punch to 90 degrees.Added secondary intersection trace for partially-occluded thirdperson weapons.Adjusted ground smoothing at locations where sloped ground surfaces join with step-height transitions.Fixed issue that caused defuse-cabl..."
+  },
+  {
+    "gid": "1831432155566354",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1777499165,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\CacheBomb explosion radius increased.Lighting Adjustments around Vent.Disabled player collision on sign and removed lamp by squeaky.Reworked e-box on A-site for better visibility.Lowered Checkers entrance frame height at B Main.Removed AC unit above Sandbags and moved pipes.Fixed lack of footstep sounds on top of crates at A-site.Fixed hole in world on door in Sun Room.Fixed wall bangs on A Main wall.Fixed some z-fighting around Garage.Adjusted grenade clipping throughout map.Adjusted player cl..."
+  },
+  {
+    "gid": "1831432155564670",
+    "appid": 730,
+    "title": "Cache arrives in Counter-Strike 2 while Valve continue working on ANIMGRAPH 2",
+    "author": "",
+    "date": 1777458337,
+    "feedlabel": "GamingOnLinux",
+    "feedname": "GamingOnLinux",
+    "tags": null,
+    "contents": "A return of a classic, the popular Cache map has finally returned with the latest Counter-Strike 2 update that's out now. Nice to see more content arrive! Read the full article here: https://www.gamingonlinux.com/2026/04/cache-arrives-in-counter-strike-2-while-valve-continue-working-on-animgraph-2/ "
+  },
+  {
+    "gid": "1831432155563524",
+    "appid": 730,
+    "title": "The Return Of Cache",
+    "author": "Gautam",
+    "date": 1777415065,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Today's update features the return of a classic. Welcome back, Cache! Cache veterans will feel right at home in familiar locations, while new players can quickly learn the ins and outs of a classic three lane map that rewards strategy and teamplay. You can find Cache in Casual, Competitive, Deathmatch and Retakes modes (for now). Don't forget to clear Forklift, and we'll see you on the server."
+  },
+  {
+    "gid": "1831432155563523",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1777415058,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\CacheAdded Cache to Competitive, Casual, Deathmatch, and Retakes modes.Dust IIUncovered Mid Box (Xbox) to reveal a previously hidden jump spot. On purpose this time.OfficeEnabled collision on tarp on boxes used around CT spawn.StrongholdUpdated to the latest version from the Community Workshop (Update Notes)PoseidonUpdated to the latest version from the Community Workshop (Update Notes)\\Minor adjustments to viewmodel animations.Talon and Karambit knives are now held correctly while defusing.\\Mi..."
+  },
+  {
+    "gid": "1830797770237569",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1777070708,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Fixed XM1014 shells flickering when starting a reload.Fixed bugs with dual berettas in first person and in spectator mode.Fixed inspect/cancel causing multiple worldmodel deploys.Fixed a bug where players can get stuck in a planted-turn state.Made foot IK transitions smoother.Adjusted the firstperson in-air crouch transition time to match the thirdperson animation better.Fixed a case where high frequency stutter steps would cause large pose changes.Fixed a case where legs would snap when quickl..."
+  },
+  {
+    "gid": "1830797770231786",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1776897651,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Adjusted ground smoothing at locations where the player can stand on very thin ledges.\\Minor adjustments to viewmodel animations.\\Corrected some improper character texture assignments.Trade offers containing Counter-Strike 2 items are now limited to 1,000 items."
+  },
+  {
+    "gid": "1830797770229332",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1776810660,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Adjusted camera motion due to recoil to match CS:GO more closely. Bullet trajectories should continue to match CS2.Players will now experience the full camera motion due to external sources of aim punch (e.g. getting shot) regardless of network latency. The effects of aim punch on bullet trajectories are still applied immediately on the server.\\Minor adjustments to viewmodel animations.Fixed several cases where crouch transitions in the air were instantaneous.Fixed a bug where MVP panel charact..."
+  },
+  {
+    "gid": "1830163047267453",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1776733888,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Fixed a bug that removed the delay between burst fire bullets."
+  },
+  {
+    "gid": "1830163047267301",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Piggles ULTRAPRO",
+    "date": 1776725923,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "All changes from the animgraph_2_beta build are now live.\\Minor adjustments to viewmodel animations.Adjusted general weapon deploy animation logic.Fixed issues with transitioning between knife attacks.Fixed Elites not shooting in third-person. \\Fixed a bug that allowed silently climbing ladders at run speed by sporadically tapping movement keys.Adjusted ground smoothing at locations where sloped ground surfaces transition to flat ground.Fixed held grenades inheriting incorrect scale in some circ..."
+  },
+  {
+    "gid": "1830163047261361",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1776458858,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4ATo report bugs or provide feedback about the beta build, please email csgoteamfeedback@valvesoftware.com with the subject \"AG2 Beta\".\\Fixed viewmodel and worldmodel HE grenade throwAdjusted foot IK when idleMinor polish for turn animations when plantingFixed fast-weapon switching when holding inspectMinor adjust..."
+  },
+  {
+    "gid": "1830163047252212",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1776204460,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4ATo report bugs or provide feedback about the beta build, please email csgoteamfeedback@valvesoftware.com with the subject \"AG2 Beta\".\\Fixed wrong pose when backing into cornersImproved stuttering of 3rd person aimFixed main menu pistol posesAdded missing knife draw animationsFix pop when running and switching we..."
+  },
+  {
+    "gid": "1829528821308514",
+    "appid": 730,
+    "title": "Animgraph 2 Beta Update",
+    "author": "FletcherDunnValve",
+    "date": 1775776671,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4ATo report bugs or provide feedback about the beta build, please email csgoteamfeedback@valvesoftware.com with the subject \"AG2 Beta\". \\Reduced network bandwidth utilizationPlease note that the client may produce a fatal error message when attempting to connect to a server running a different build."
+  },
+  {
+    "gid": "1828894815557252",
+    "appid": 730,
+    "title": "Counter-Strike 2 gets a Beta with a fancy new animation system",
+    "author": "",
+    "date": 1775132572,
+    "feedlabel": "GamingOnLinux",
+    "feedname": "GamingOnLinux",
+    "tags": null,
+    "contents": "While I still sit here waiting for Danger Zone to return (please Valve), Counter-Strike 2 just got a big Beta upgrade with a new animation system. Read the full article here: https://www.gamingonlinux.com/2026/04/counter-strike-2-gets-a-beta-with-a-fancy-new-animation-system/ "
+  },
+  {
+    "gid": "1828894815556044",
+    "appid": 730,
+    "title": "Animgraph 2 Beta",
+    "author": "Piggles ULTRAPRO",
+    "date": 1775082945,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png Today we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the technical work involved in switching to the new system, all third person animations have been re-authored and, in many cases, adjusted in response to player feedback. It's time for you to take a look, poke around for bugs, and tell u..."
+  },
+  {
+    "gid": "1828894815556043",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Piggles ULTRAPRO",
+    "date": 1775082945,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4ATo report bugs or provide feedback about the beta build, please email csgoteamfeedback@valvesoftware.com with the subject \"AG2 Beta\".\\The CS2 animation system has been updated to Animgraph 2, which reduces CPU and networking costs associated with animation.All third-person animations have been re-authored, and i..."
+  },
+  {
+    "gid": "1827626365752526",
+    "appid": 730,
+    "title": "Counter-Strike 2 gets a major update with reload changes, custom game modes",
+    "author": "",
+    "date": 1773912675,
+    "feedlabel": "GamingOnLinux",
+    "feedname": "GamingOnLinux",
+    "tags": null,
+    "contents": "Possibly one of the most controversial updates for the Counter-Strike series as a whole, the latest Counter-Strike 2 update brings major changes from Valve. Read the full article here: https://www.gamingonlinux.com/2026/03/counter-strike-2-gets-a-major-update-with-reload-changes-custom-game-modes/ "
+  },
+  {
+    "gid": "1827626365751572",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "COMPLEX",
+    "date": 1773873327,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "Reloading has been refactored to encourage more careful consideration of the use of ammo. When you reload a magazine-fed weapon, all remaining ammo in the magazine is discarded and a new, full magazine is taken from the reserves. Reserve ammunition is now represented either as number of magazines, shells, or bullets, depending on the weapon. The fill-level of the current weapon is now displayed below the ammo count. Tuned reserve magazine counts per-weapon. Limited map guides are now available i..."
+  },
+  {
+    "gid": "1827626365751571",
+    "appid": 730,
+    "title": "Guns, Guides, and Games",
+    "author": "Piggles ULTRAPRO",
+    "date": 1773873319,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "From reloading to custom games, today's update will give you plenty to think about. Reloadhttps://clan.akamai.steamstatic.com/images/3381077/5dd914dd4a8901aa52b0075f683a6d0e3538d55b.png When you reload in CS2, the leftover ammo in your magazine is dumped back into an essentially endless reserve supply. And so the decision to reload has never offered significant trade-offs—in a safe position with enough time, you might reload after firing a single bullet, or half a mag, or after firing down to em..."
+  },
+  {
+    "gid": "1826992588602521",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Gautam",
+    "date": 1773698794,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Players in Germany and Netherlands will have an X-Ray Scanner tab in their Inventory. For those players, containers can only be opened via X-ray Scanner. The X-Ray Scanner will come preloaded with a one-time exclusive non-tradable \"Genuine P250 | X-ray\", which must be claimed before using the X-Ray Scanner to reveal items in other containers.Keyless Containers, like Souvenir Packages, can be opened without the X-Ray Scanner."
+  },
+  {
+    "gid": "1826992588591189",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1773270006,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\The Dead Hand Collection is now available, featuring 17 finishes from community contributors, and including 22 all-new gloves as rare special items.Access items in the Dead Hand Collection via the Dead Hand Terminal, available as a weekly drop.\\Dust IIFixed a pixel gap in a door Outside Long. AlpineUpdated to the latest version from the Community Workshop (Update Notes)"
+  },
+  {
+    "gid": "1826992588591187",
+    "appid": 730,
+    "title": "The Dead Hand",
+    "author": "Gautam",
+    "date": 1773269955,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Today we're introducing the Dead Hand Collection, featuring 17 finishes from community contributors and 22 all-new gloves as rare special items. https://clan.fastly.steamstatic.com/images/3381077/55ed2cb8da5c61796d087c29b39e0b4bd8220443.pnghttps://clan.fastly.steamstatic.com/images/3381077/4d57e0881ea5a03a6dcc0ac66a84ea6d53f219a9.pnghttps://clan.fastly.steamstatic.com/images/3381077/35c54315ef06d422a43b8496164d4312a8e1e9bb.pnghttps://clan.fastly.steamstatic.com/images/3381077/5f6d660c715c292dcb6..."
+  },
+  {
+    "gid": "1826362059919569",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1772664700,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Starting today, items listed for sale on Steam Community Market will remain in your inventory for use while they are listed (e.g., your weapon can be equipped in your loadout while it is listed). While listed, items cannot be consumed or modified. You can cancel your listings at any time.Added ability to set your max offer limit for items in the Terminal, and the Arms Dealer will only show offers up to that limit.Fixed a slight tilt in the chicken running animation.\\InfernoBalcony at Bombsite A..."
+  },
+  {
+    "gid": "1826362059917935",
+    "appid": 730,
+    "title": "CSGO is back on Steam, if you know where to look",
+    "author": "editor@pcgamesn.com",
+    "date": 1772623159,
+    "feedlabel": "PCGamesN",
+    "feedname": "PCGamesN",
+    "tags": null,
+    "contents": "<strong>Counter-Strike 2</strong> has largely been a continued triumph for Valve, sitting atop the Steam charts and consistently pulling daily player-count peaks that nearly double the second-placed Dota 2. Yet some of us crave the way things used to be. If that's you, the good news is that predecessor <strong>Counter-Strike: Global Offensive</strong>, most affectionately known as <strong>CS:GO</strong>, is now back on Steam, boasting its own unique page, although you'll need to look closely to find it. <a href=\"https://www.pcgamesn.com/counter-strike-global-offensive/csgo-steam-page\">Read the rest of the story...</a> RELATED LINK..."
+  },
+  {
+    "gid": "1825727806706141",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1772060032,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Added Instance.SetSaveDataAdded Instance.GetSaveDataWorkshop maps can write up to 1MB of save data.Workshop saves leverage Steam Cloud and persist across installs.Save data size limit can be configured with sv_workshop_map_save_data_max_filesize_mb.Added Instance.OnModifyPlayerDamageCalled after all damage properties have been calculated, just before armor and health are modifiedReplaces Instance.OnBeforePlayerDamageIncludes hitgroup in event dataAdded hitgroup to OnPlayerDamage event dataAdded..."
+  },
+  {
+    "gid": "1825093633195926",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1771889921,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.Fixed a case where the Delete Item inventory option wasn't working.Fixed a case of visual corruption using iron sights on AMD GPUs.Expanding list of console variables addons are allowed to change.\\OverpassFixed the Party balloons."
+  },
+  {
+    "gid": "1823825466506792",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1770677957,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Localization code and text changes."
+  },
+  {
+    "gid": "1823825466495240",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1770248033,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Fixed a case where switching firstperson spectator targets would cause viewmodel animations to reset.Fixed a case where physics calculations far from the origin were causing performance issues.\\AnubisAdjusted player clipping around new drop.Adjusted grenade clipping around connector (e-box :P) hole and old drop.PoseidonUpdated to the latest version from the Community Workshop (Update Notes)"
+  },
+  {
+    "gid": "1823191198603765",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1769732256,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Damage from HE grenades that explode mid-air near the ground will no longer be calculated as if they exploded on the ground.\\Various knife sound adjustments.\\Performance optimizations for exploding chickens.Fixed a map scripting bug where Entity.SetOwner wasn't accepting undefined.Added a method for community maps to save modified user settings. Running 'host_writeconfig_with_prompt' will prompt the user for permission to save. If accepted, some of the modified settings (radar, viewmodel, safez..."
+  },
+  {
+    "gid": "1822556746168133",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1769472540,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Molotov/incendiary grenades that bounce off an enemy player have a one-time fuse extension added to prevent them from air-bursting when their has-never-hit-the-world timer elapses.\\Fixed a performance issue when running CS2 without a sound device.Various knife sound adjustments.\\Fixed broken cl_ent_bbox visualization for some classes of rigid dynamic entities.Various stability improvements.\\NukeAdjusted hanging hard hat model render bounds to prevent shadow popping when model exited the view fr..."
+  },
+  {
+    "gid": "1822556746160428",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1769122494,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Landing vertical velocity now affects landing speed penalties similar to sv_legacy_jump stamina.\\Fixed an issue that led to a small number of users to erroneously receive a VAC ban. Those bans have been reversed.Fixed a case where HUD safezone settings were not being applied.Various server stability improvements.\\AnubisFixed a case where physics objects would interact with multiple overlapping convex water volumes.Various player clipping adjustments.Radar minimap updated to match recent changes..."
+  },
+  {
+    "gid": "1822556746157781",
+    "appid": 730,
+    "title": "The Fourth Season",
+    "author": "Gautam",
+    "date": 1769036297,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "https://clan.fastly.steamstatic.com/images/3381077/cacb757bc3e9944ba4c827d2c5dc1751ab5400fa.pngPremier Season Four is here, and it brings a host of community content, in-game items, gameplay tweaks, and bug fixes along with it! Anubis is back after a short vacation, and has several gameplay adjustments to show for it. The release notes have the full story, but let's just say it's good news for fans of holes. There have also been a couple of minor adjustments to SMGs, so if you've been waiting to..."
+  },
+  {
+    "gid": "1822556746157780",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "brianlev",
+    "date": 1769036288,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Premier Season Four has begunAdded Anubis to the Active Duty Map PoolRemoved Train from the Active Duty Map Pool\\Adjusted underlying per-map competitive matchmaking rank values. Existing per-map competitive Skill Groups have been expired, and will be displayed again once the player obtains the required number of wins\\Minor adjustments to the MP7 and MP5-SD:Slightly increased damageSlightly reduced damage fall-offReduced price by $100.Reduced price of the PP-Bizon by $100.Jump changes:Landing ti..."
+  },
+  {
+    "gid": "1819386365109671",
+    "appid": 730,
+    "title": "2026 Service Medal",
+    "author": "Gautam",
+    "date": 1766779495,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "https://clan.fastly.steamstatic.com/images/3381077/df9c5d47c8dd9e4d9ecc4a6d9a53f4fb1ea2666c.png Starting January 1, 2026, the newest Service Medal will be available in-game. Reach Global General (Rank 40) to reset your Profile Rank and earn (or upgrade) your 2026 Service Medal. Good luck and have fun!"
+  },
+  {
+    "gid": "1819386365092528",
+    "appid": 730,
+    "title": "The Year of the Bees",
+    "author": "Mr. Mario Kart",
+    "date": 1766092742,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg The StarLadder Budapest Major capped off an incredible 2025 for Team Vitality, who won their second consecutive Major Championship and the organization's third overall. Coming into the Grand Finals against FaZe Clan, Team Vitality had not lost a map in the Playoffs, defeating The MongolZ and Team Spirit 2-0. After losing the opening map, Team Vitality won the next three on Dust II, Inferno, and O..."
+  },
+  {
+    "gid": "1819386365092527",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1766092733,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality!Highlight Souvenir Packages can now be acquired for the Playoff matches."
+  },
+  {
+    "gid": "1818752592130605",
+    "appid": 730,
+    "title": "Best of Five in Budapest",
+    "author": "COMPLEX",
+    "date": 1765670126,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "https://clan.cloudflare.steamstatic.com/images//3381077/cbefb5475573c1b9aa9fa52e9ec2eac2bdbf2184.png Only two teams remain in the StarLadder Budapest Major! Team Vitality has yet to drop a map in the Playoffs, defeating The MongolZ in the Quarterfinals and Team Spirit in the Semifinals 2-0. On the other side of the bracket, FaZe Clan defeated MOUZ in the Quarterfinals and needed all three maps to defeat Natus Vincere in the Semifinals, 2-1, to book their ticket to Sunday's Grand Finals. Team Vit..."
+  },
+  {
+    "gid": "1818752592121912",
+    "appid": 730,
+    "title": "The StarLadder Budapest Major Playoffs",
+    "author": "COMPLEX",
+    "date": 1765397607,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "https://clan.cloudflare.steamstatic.com/images//3381077/f7e0b05e3af4f8be1315023957563f3ee4519d6a.png Only 8 teams remain in the StarLadder Budapest Major, which means the Playoffs are upon us. FURIA and Team Spirit finished Stage III with perfect 3-0 records. MOUZ, The MongolZ, and Vitality advanced at 3-1, and Falcons, FaZe Clan, and Natus Vincere survived with 3-2 records. Playoffs begin tomorrow, December 11th from the 20,000 seat MVM Dome with the following Quarterfinals matchups: Team Spiri..."
+  },
+  {
+    "gid": "1818118366183917",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1765231628,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Improved shadow fidelity on view models.Added local client icon cache for inventory items.Fixed a case that caused a small number of users to receive an erroneous VAC ban. The bans will be removed."
+  },
+  {
+    "gid": "1818118366178075",
+    "appid": 730,
+    "title": "CS2 Workshop Update",
+    "author": "COMPLEX",
+    "date": 1764980760,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "workshop",
+      "hide_library_detail",
+      "hide_library_overview",
+      "hide_store"
+    ],
+    "contents": "Today we are introducing optional Supplemental Terms for releasing Counter-Strike 2 items in-game, found here, which allows the Counter-Strike 2 team to license items for a flat fee, found below:Weapon finish: $35,000.00 USDSticker: $6,000.00 USDCharm: $6,000.00 USDIf a Steam account agrees to these new Supplemental Terms, all of the account's Workshop items can now be distributed where Community items were previously not available, such as The Armory. A Call to Arms-oryAs part of a future updat..."
+  },
+  {
+    "gid": "1816849002009278",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1763596068,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.Disabled TrueView while watching a live playcast to match on-server observing experience.Fixed a wiggle at the end of SG 556 deploy animation.Stability improvements."
+  },
+  {
+    "gid": "1816307528930061",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Piggles ULTRAPRO",
+    "date": 1763082076,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Fixed ability to plant C4 while standing on top of a teammate.Fixed a rendering bug on transparent charms attached to planted C4 or dropped weapons.Fixed a bug where Budapest 2025 Coin sometimes wasn't showing up in the scoreboard.Fixed a replay bug causing infinite shell casing effects.Updated the Budapest 2025 Imperial Esports sticker artwork."
+  },
+  {
+    "gid": "1816215235365196",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "COMPLEX",
+    "date": 1762988337,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\The StarLadder Budapest Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.Purchase a Budapest 2025 Viewer Pass to receive an upgradable Budapest 2025 Coin. With an active pass, you can upgrade your coin and earn extra souvenir packages by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick'Em Challenge performance to your friends.\\Added new \"Sticker Slab\" item, a ch..."
+  },
+  {
+    "gid": "1816215235365195",
+    "appid": 730,
+    "title": "The Starladder Budapest Major 2025",
+    "author": "gautam",
+    "date": 1762988293,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "As 2025 comes to an end, the StarLadder Budpest Major 2025 is set to begin. Join us as the first stage begins on Monday, November 24th!All three stages of the StarLadder Budapest Major will be played in front of live crowds at MTK Sportpark, and for the first time at a Counter-Strike Major, the Grand Finals will be best of five. Now more than ever, the Major Champions will need to prove their quality by winning three maps in the Active Duty Map Pool.Make Your PicksYou can begin supporting your f..."
+  },
+  {
+    "gid": "1815580768210748",
+    "appid": 730,
+    "title": "Introducing TrueView",
+    "author": "Piggles ULTRAPRO",
+    "date": 1762300820,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Today we're adding a new feature to demo playback called TrueView. With TrueView, demo playback will match the player's original experience much more closely.Previously, demo playback showed the server's view of the world, without accounting for network latency. This could be confusing because shots would hit that didn't look like they should have, and vice versa. TrueView provides a more accurate representation of the observed player's experience by re-running their client-side prediction.The v..."
+  },
+  {
+    "gid": "1815580768210747",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Piggles ULTRAPRO",
+    "date": 1762300751,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Fixed a case where air acceleration was clamped incorrectly while surfing.Fixed a case where slowly surfing up a ramp was handled incorrectly due to misidentification as a jump apex.Fix a bug causing \"Delay Sniper Rifle Un-Scope after Shot\" to be inconsistent.\\Added TrueView demo playback, which reconstructs the observed player's original experience more accurately by re-running client-side prediction.TrueView playback will show the effects of Damage Prediction, if it was enabled by the observe..."
+  },
+  {
+    "gid": "1815034432852394",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1761780997,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Improved player movement prediction when colliding with other moving players.Added scope in/out sound prediction to play immediately for local player.Retake loadout cards will now randomly offer M4A1-S or M4A4 if player has both equipped in their CT loadout.Added Body Armor to 4v3, 4 Bad Guys Left, and Blind Fire cards.Added Dual Berettas to T Blind Fire card.Replaced Flashbang with HE Grenade on CT Enemy Loadout CardFixed idle animations on CZ75-Auto, SSG 08, AUG, Galil AR.Performance improvem..."
+  },
+  {
+    "gid": "1814309641454326",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1761258728,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Increased matchmaking party size for Retakes to allow 4 players in a party.Fixed a case where players joining Retakes round during freeze time could spawn at a wrong spawn point.Fixed bot manager logic to make room for players by first kicking dead bots and bots who are not controlled by a human.\\Stability improvements."
+  },
+  {
+    "gid": "1814309641424632",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1761174020,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Adding Retakes as official game mode supporting Defusal Group Alpha and Defusal Group Delta maps on official matchmaking servers.Fixed Molotov and Smoke interaction logic in cases when multiple smokes are active in the map.\\Updated Golden to the latest version from Steam Community Workshop (Update Notes)Updated Palacio to the latest version from Steam Community Workshop (Update Notes)Updated Rooftop to the latest version from Steam Community Workshop (Update Notes)InfernoAdjustments to top of Q..."
+  },
+  {
+    "gid": "1814309641424631",
+    "appid": 730,
+    "title": "Re-Retakes",
+    "author": "gautam",
+    "date": 1761174008,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "{STEAM_CLAN_IMAGE}/3381077/aae1ceb26e12464542579430a2436c8348461b5c.pngThe bomb has been planted and you're running out of time. It's the return of retakes! In this classic game mode, each round drops you in to a fast-paced 4v3 after-plant scenario. Select your loadout card each round, check the map to coordinate with your teammates, and use your resources wisely to defuse (or defend) the planted bomb.The clock is ticking, what are you waiting for? Jump into a retakes server now!"
+  },
+  {
+    "gid": "1813674388920331",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1760573182,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Fixed a case of incorrect damage report data at the end of the rounds.Updated King Crasswater and Queen Ava stickers for clarity.Skinning fixes on Driver Gloves and Sport Gloves.Fixed a crash when playing back some demo files.Stability improvements."
+  },
+  {
+    "gid": "1813674388884503",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1760480890,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Updated engine code to the latest version of Source 2.Reworked bullet penetration simulation to reduce CPU usage.Improved core utilization of some client particle and sound effects processing, reducing overall CPU usage when players are shooting.\\Defusing C4 will now lower the viewmodel weapon, prevent scoping, and delay firing the weapon by 150ms after exiting the defuse.C4 will no longer detonate in the middle of halftime intermission or after the end of the match.Fixed a case where 1 tick wa..."
+  },
+  {
+    "gid": "1813041031352604",
+    "appid": 730,
+    "title": "Counter-Strike 2 Pre-Release Update",
+    "author": "Vitaliy",
+    "date": 1760398156,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "A new pre-release build (“1.41.1.3-rc1”) is now available in the CS2 beta depot. This build is not compatible with public matchmaking.For instructions on how to opt into a CS2 beta depot build, visit the following page: https://support.steampowered.com/kb_article.php?ref=9847-WHXC-7326\\Updated engine code to the latest version of Source 2.Reworked bullet penetration simulation to reduce CPU usage.Improved core utilization of some client particle and sound effects processing, reducing overall CPU..."
+  },
+  {
+    "gid": "1811772772523858",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1759533512,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Updated Palacio to the latest Community Workshop version. (Update Notes)Removed Transit from official matchmaking.\\Fixed Instance.OnPlayerPing not sending position."
+  },
+  {
+    "gid": "1811772772490482",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1759448145,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Updated Palacio, Rooftop, and Golden to the latest Community Workshop versions.\\Adjusted AUG and SG 553 scope dot sizes.Added game options for dot scale and sniper rifle scope thickness.Added letterbox for camera path transitions.Fixed a regression in certain bullet penetration scenarios.Stability improvements.\\Fixed a bug where old callbacks could be invoked after a script reload.Fixed a bug where new callbacks could be invoked multiple times after a script reload.Fixed missing Instance.IsFree..."
+  },
+  {
+    "gid": "1811772772457461",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "jo",
+    "date": 1759362184,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Added Missing Link Community Charms collection featuring 23 new charms created by Counter-Strike Workshop community artists.Added Dr. Boom Charms collection featuring 22 new charms.Added 2025 Community Stickers collection featuring 29 new stickers created by Counter-Strike Workshop community artists.Added Sugarface 2 Stickers collection featuring 9 new stickers with the Sugarface theme.Removed Gallery Case, Graphic Collection, and Character Craft stickers from The Armory.\\Death count in scorebo..."
+  },
+  {
+    "gid": "1811772772457460",
+    "appid": 730,
+    "title": "Community Maps, Charms, and More",
+    "author": "gautam",
+    "date": 1759362152,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Let's get right into it. Today's update features new Wingman and Competitive community maps, along with brand new charms (including community designs), stickers, and more.Community MapsFrom the mines of Golden to the moving train in Transit, we've got four new Community maps for you to check out. Golden and Palacio have been added to Competitive, Casual, and Deathmatch modes, and Rooftop and Transit have been added to Wingman.New Armory ContentIt's a lil' HE grenade... for your gun. It doesn't e..."
+  },
+  {
+    "gid": "1811772772259703",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1758846282,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "Updated collision around Mirage top of ladder hole. Updated R8 Revolver geometry and animation scale. sv_subtick_movement_view_angles will now only send subtick view angles to the server with other subtick events instead of sending them for every frame they change. Enabled Vulkan defragmentation to help alleviate texture streaming overhead."
+  },
+  {
+    "gid": "1811772772226733",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1758759471,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "Updated tsconfig.json in the script_zoo, setting the target to \"es2022\" for more accurate type analysis. Changed point_script entity to no longer remove itself on a failed script load during spawn. Instead it will remain in an inactive state and listen for script changes if the game is running in tools mode. Fixed point_script entity to no longer potentially crash after an unsuccessful reload from an invalid script while running the game in tools mode. Changed point_script entity to hold onto th..."
+  },
+  {
+    "gid": "1811772772194285",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Vitaliy",
+    "date": 1758675295,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "AncientVarious player clipping fixes TrainVarious player clipping fixes Fixed a case where you couldn't start moving while wiggling the mouse. Fixed a case where velocity was abnormally low while walking up ramps."
+  },
+  {
+    "gid": "1811138915408811",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "daVinci1980",
+    "date": 1758243201,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Fixed a regression to view punch which affected weapon sprays.Fixed a regression in server performance that caused frequent long server frames, primarily in drop-in drop-out modes. "
+  },
+  {
+    "gid": "1811138915373173",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "tomd",
+    "date": 1758150955,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\Customers in Belgium, Netherlands, and France can now unseal their Sealed Genesis Terminal items.Fixed purchasing errors for users with Steam Wallet funds in Chilean Peso, Colombian Peso, Costa Rican Colón, Indonesian Rupiah, Indian Rupee, Japanese Yen, South Korean Won, Kazakhstani Tenge, New Taiwan Dollar, Ukrainian Hryvnia, Uruguayan Peso, and Vietnamese Dong.\\Fixed position of the nametag and StatTrak module on Shadow Daggers.\\Added javascript to the list of asset types.Fixed type declarati..."
+  },
+  {
+    "gid": "1811138915340164",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "author": "Piggles ULTRAPRO",
+    "date": 1758065072,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "\\The Genesis Collection is now available, featuring 17 finishes from community contributors.Access items in the Genesis Collection via the Genesis Uplink Terminal, available as a weekly drop.\\Added cs_script, a JavaScript based scripting system for Counter-Strike maps.Added script_zoo.vmap to demonstrate cs_script usage and functionality.\\Added ability to inspect another player's loadout when spectating.Added zoom (mousewheel) and pan (shift+drag) to all inspect panels.\\Each grenade now has uniq..."
+  }
+]

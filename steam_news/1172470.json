@@ -1,0 +1,1138 @@
+[
+  {
+    "gid": "1844751498232361",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 9/28/2026",
+    "author": "RSPN_Bean",
+    "date": 1790623060,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "REMINDER:Last week, in response to player feedback, we brought back the Core Wildcard mode alongside Apex KO. As a reminder, you should expect slightly longer queue times for either mode, with the higher skilled lobbies being most impacted. The highest successful queue times we're seeing is around 2.5-3.5 minutes. Know before you go!"
+  },
+  {
+    "gid": "1844751498222669",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 09/24/2026 - 2:00pm PT",
+    "author": "rspn_jax",
+    "date": 1790283407,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "mod_reviewed",
+      "ModAct_1890460210_1790284855_0",
+      "mod_require_rereview"
+    ],
+    "contents": "⚠️INVESTIGATING: We are aware of an issue on PS5 systems that results in errors in non-English voice lines. We're actively working on it and hope to have more information soon.Update @ 9/25/2026, 9 AM PT: ✅This issue is now fixed.If you were affected by this, please restart the game after downloading our small client patch. Thank you for your patience while we worked on a fix."
+  },
+  {
+    "gid": "1844751498222239",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Updates - 09/24/2026",
+    "author": "rspn_jax",
+    "date": 1790270785,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "In response to community feedback, we're making a couple of adjustments to the Street Fighter 6 collab Wildcard event. 🛠️ADJUSTED:- Blocking with drain Fighter Gauge more quickly. Dev note: Some feedback suggested that the Block mechanic felt overtuned and made shooting feel useless, noting that Apex is a shooter, first. This change will allow you to more reliably break a player out of blocking after doing enough damage.) - Fighter Mode will no longer be extended by doing damage while in Fighter..."
+  },
+  {
+    "gid": "1844751498222163",
+    "appid": 1172470,
+    "title": "EA Javelin Anticheat is Coming to Apex Legends",
+    "author": "rspn_jax",
+    "date": 1790269287,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "For a fully localized version of the following, please visit the official blog page.IntroEffective September 29th, 2026, Apex Legends will be switching its PC anticheat system to EA Javelin Anticheat. We extend our deepest gratitudes to the Easy Anti Cheat team at Epic Games for a long and fruitful partnership. Moving to EA Javelin Anticheat will give our anticheat teams greater visibility into emerging threats and more flexibility to develop and improve detections as cheating evolves. This is a..."
+  },
+  {
+    "gid": "1844751498219773",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 09/23/2026",
+    "author": "rspn_jax",
+    "date": 1790204295,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "✅FIXED:- Fixed a crash that could occur when using Fighter Abilities in specific circumstances in Firing Range.- Fixed a visual issue where the Legend spotlight pass daily challenges would appear to be at 100% and not roll over to the next available challenge.- Fixed an issue where Fighter Mode could sometimes delete Ballistic's sling weapon.- Fixed an issue in Wildcard KO where players would sometimes be unable to use their weapons after respawning."
+  },
+  {
+    "gid": "1844115010505080",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 09/22/2026",
+    "author": "rspn_jax",
+    "date": 1790099905,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "💡REMINDER: For players experiencing issues with the new Street Fighter 6 Wildcard event, please ensure that you have updated Apex Legends today. You will be able to load into matches without updating, but your overall experience may be hindered - fully closing Apex and downloading the update should resolve most issues."
+  },
+  {
+    "gid": "1844115010504929",
+    "appid": 1172470,
+    "title": "Apex Legends VS Street Fighter 6 Event",
+    "author": "Electronic Arts",
+    "date": 1790096461,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "vo_marketing_message"
+    ],
+    "contents": "A new challenger enters! Two of gaming’s fiercest competitions meet in one Arena. Throw down in Wildcard with Street Fighter 6 fighting styles and launch Hadokens and Shroyukens across a remixed Olympus. Drop into Wildcard, grab your Fighter Gear, and channel the power of a Street Fighter 6 character. Pick between the fighting styles of Ryu, Chun-Li, Akuma, and Dhalsim: each with a Passive, Tactical, and Ultimate based on their Street Fighter 6 moveset. Collect Tokens to fill your Fight Gauge, t..."
+  },
+  {
+    "gid": "1844115010502111",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 09/21/2026",
+    "author": "rspn_jax",
+    "date": 1790012463,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "✅FIXED:- Fixed a bug that switched the order of Lifeline upgrades - The correct Mythic 30-30 and L-STAR now spawn appropriately in Wildcard"
+  },
+  {
+    "gid": "1844115010495631",
+    "appid": 1172470,
+    "title": "An Update from the Anti Cheat Team - 09/18/2026",
+    "author": "RSPN_Bean",
+    "date": 1789753074,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Competitive Integrity Update — Account SharingWe’ve taken action against players who were found to be sharing their accounts across multiple devices to gain an unfair advantage on the Apex Predator leaderboard.Following reports from the community of Predator players maintaining unusually long, continuous Ranked play sessions, our Anti-Cheat team reviewed login activity and device data associated with high-ranked accounts. This investigation identified accounts being accessed from multiple distin..."
+  },
+  {
+    "gid": "1844115010492838",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 9/17/2026",
+    "author": "RSPN_Bean",
+    "date": 1789666496,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "KNOWN ISSUE:Happy Split Two launch week, everyone. We are currently tracking and working to resolve the following bugs: -Entering an Alter portal may drop players in the incorrect place-Players are able to clip through the ground of some structures on Broken Moon-Game settings reset on startup for some players"
+  },
+  {
+    "gid": "1843481262704926",
+    "appid": 1172470,
+    "title": "Apex Legends VS Street Fighter 6 Event",
+    "author": "Electronic Arts",
+    "date": 1789486104,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Event drops September 22. Watch the trailer now.A new challenger enters! Two of gaming's fiercest competitions meet in one Arena as Street Fighter 6 hits the Outlands. Throw down with the moves of the world's greatest fighters and launch Hadokens and Shoryukens across a remixed Olympus. Suit up as Street Fighter 6 characters with new cosmetics, and more."
+  },
+  {
+    "gid": "1843481262702712",
+    "appid": 1172470,
+    "title": "Apex Legends™: Marked Midseason Patch Notes",
+    "author": "RSPN_Bean",
+    "date": 1789411283,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "INTROWelcome back to Split 2 of Apex Legends: Marked. To start the second half of the season, we’ve got Legend balancing changes, some adjustment to loot availability (including more healing items), buffs to a trio of long range weapons, and the usual array of tweaks, fixes and adjustments. Split 2 starts on September 15th, so assemble your squad and get ready to jump back into Marked!ANTI CHEAT UPDATEIn the leadup to Split 2, we implemented significant, new systems to detect players using unaut..."
+  },
+  {
+    "gid": "1843481262693320",
+    "appid": 1172470,
+    "title": "Apex Legends: Anti-Cheat Update - 09/10/2026",
+    "author": "rspn_jax",
+    "date": 1789071371,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "We’re happy to share an update in Apex’s fight against cheaters and cheat makers. Following our engagement, Collective Minds (creators of the Cronus Zen and Strike Pack hardware devices) has removed all cheats relating to Apex Legends from their website and Discord servers.This is a positive step for our team and the future of Apex Legends as we work to establish and maintain the highest standard of competitive integrity possible. For more details please read the official EA Blog, here."
+  },
+  {
+    "gid": "1842846814443925",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 9/3/2026",
+    "author": "RSPN_Bean",
+    "date": 1788452900,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "UPDATE:Anyone previously experiencing crashes on AMD hardware, there is a new patch available from AMD that will fully resolve the issue. Find more information here: https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-26-9-1.html"
+  },
+  {
+    "gid": "1842846814441123",
+    "appid": 1172470,
+    "title": "Controller Anti-Cheat Enforcement & Ban Wave Update — 09/02/2026",
+    "author": "RSPN_Bean",
+    "date": 1788369894,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "We are implementing significant, new systems to detect players using unauthorized controller hardware or software in Apex Legends on all platforms including: PC, PlayStation, Xbox, and Nintendo Switch 2.We’ve spent the past several months thoroughly validating these systems to ensure they can accurately identify prohibited behavior.Players that trigger these detections will be actioned upon and banned accordingly.If you are using controller modifications, devices, or software to gain an unfair a..."
+  },
+  {
+    "gid": "1842212951314034",
+    "appid": 1172470,
+    "title": "Apex Legends™ EA Play* Weapon Charm",
+    "author": "Electronic Arts",
+    "date": 1788280330,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Experience a world of thrill with EA Play. Join to get great player benefits and unlimited access to an unrivaled collection of EA’s fan-favorite franchises and top titles. Members can unlock rewards in the hottest titles each month, including Weapon Charms in Apex Legends. Dive into all the game-winning, world-creating, and galaxy-defining moments in The Play List or discover a new favorite with trials of select recent releases for up to 10 hours with no commitments. If you decide to buy, your ..."
+  },
+  {
+    "gid": "1842212951297706",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 8/26/2026",
+    "author": "RSPN_Bean",
+    "date": 1787765911,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "FIXED:-Octane passive once again restores him to full health, as intended.-Fixed rare instances where players were locked out of nearly all actions in Battle Royale mode.-Fixed an instance where Gibraltar could sprint faster than intended when combining Fast Shotties perk with the Corrupted Stock.-Fixed an issue where players would sometimes experience rubberbanding, jumpy behaviour and/or jittery movement after reconnecting."
+  },
+  {
+    "gid": "1842212951297641",
+    "appid": 1172470,
+    "title": "[AMA] Let’s talk about Legend and Weapon balance",
+    "author": "RSPN_Bean",
+    "date": 1787764472,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hey all! We’ll be answering as many questions as possible about Legend & Weapon meta this Thursday, August 27, 2026, from 10 am PT to 12pm PT. Drop your questions below ahead of our AMA and tune back for replies when we go live. As always, feedback is also welcome and we’ll be collecting everything to share with the team.Here’s our team on deck:RSPN_CaseroosRSPN_JayBiebsRSPN_ConMonRSPN_hypnotikReminder: We have only two hours to answer as many questions as we can. To improve your chances of gett..."
+  },
+  {
+    "gid": "1842212951295240",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 8/25/2026",
+    "author": "RSPN_Bean",
+    "date": 1787697503,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "INVESTIGATING: We are investigating a crash impacting players with AMD Radeon RX 9070 XT GPUs. For immediate resolution, please roll back your drivers to the previous version (26.7.1)."
+  },
+  {
+    "gid": "1841579228670387",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 8/21/2026",
+    "author": "RSPN_Bean",
+    "date": 1787356783,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hey everyone, we're going to do something a little bit different. We're announcing changes today that will go live early next week (aiming for Tuesday morning).🛠️ADJUSTING:AxleTactical-Nitro Gate launch speed will be reduced from 750 to 700Ultimate-Ultimate HP will be reduced down to 150 from 200-Base Ultimate cooldown will increase from 90s to 120s-Ultimate knockback arc will be widened and max height will also be reduced-Ultimate stun duration will be reduced from 1.5s to 0.25s Upgrades-Jump G..."
+  },
+  {
+    "gid": "1841579228663844",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Updates - 08/19/2026 - 3:30pm PT",
+    "author": "rspn_jax",
+    "date": 1787178593,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "✅FIXED:Removed an exploit that allowed Bloodhounds to quickly access their Ult using their Level 3 Upgrades"
+  },
+  {
+    "gid": "1841579228663724",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 8/19/2026",
+    "author": "RSPN_Bean",
+    "date": 1787173078,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "FIXED:The Ascended Hunt Daily Challenge to \"level up all 3 wild cards in a single match\" can now be completed as intended"
+  },
+  {
+    "gid": "1840944183789665",
+    "appid": 1172470,
+    "title": "Apex Legends™: Ascended Hunt Event",
+    "author": "Electronic Arts",
+    "date": 1787078756,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "CLAIM THE POWER OF THE GODSAncient power from beyond the Outlands has reached into the Arena, blessing the Legends with gifts from the gods. Claim them to move with supernatural speed, steal enemy health, and tear through opponents. With every fight your power grows, until you rise as the ultimate hunter in Wildcard.Earn Marks throughout the event to claim special event items, and check out Gibraltar’s new golden Prestige Skin: Apex Bruddah.The Ascended Hunt Event runs from August 18 to Septembe..."
+  },
+  {
+    "gid": "1840944183787445",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 08/17/2026",
+    "author": "rspn_jax",
+    "date": 1787008313,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "✅FIXED:Victims of Gibby's mythic finisher will no longer disappear into another realmResolved an issue causing display issues for some items in the store"
+  },
+  {
+    "gid": "1840310314354736",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 8/11/26",
+    "author": "RSPN_Bean",
+    "date": 1786468743,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hello, we just pushed an update for the following:✅FIXED-Mythic CAR reload animations will now display correctly-Hemlok Breach AR will now recoil as intended -The World's Edge minimap now accurately reflects players location-Lifeline's Tactical audio now plays correctly when other HP regeneration is active-Bloodhound will no longer respawn with a fully charged Ultimate(edited)As of 9 PM PT, we've also pushed out an additional update for the following:✅FIXEDResolved an issue where turn slow (the ..."
+  },
+  {
+    "gid": "1840310314337786",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 8/4/2026",
+    "author": "RSPN_Bean",
+    "date": 1785890706,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "We just pushed a patch to address the following:✅FIXED-A crash related to Lifeline's Ultimate interacting incorrectly with Hardlight Mesh-A crash related to Mythic weapons and a small portion of Reactive weapon skins (Steam only - other platforms coming soon)"
+  },
+  {
+    "gid": "1839676055898013",
+    "appid": 1172470,
+    "title": "Gear up for Apex Legends™: Season 30 with EA Play* for $0.99",
+    "author": "Electronic Arts",
+    "date": 1785864368,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Join EA Play now for just $0.99 for your first month, and get ready for Apex Legends™: Season 30. Members can lock in monthly Weapon Charms, plus 10% off select Battle Passes, Apex Coins, and more. Survive long enough, and they call you a Legend. Members can also step onto the gridiron early in the EA SPORTS™ Madden NFL 27 EA Play trial, dropping August 6! Run the league one decision at a time with an EA Play Welcome Pack, monthly Madden Ultimate Team™ Packs, and save 10% on Madden Points. Dive ..."
+  },
+  {
+    "gid": "1839676055897949",
+    "appid": 1172470,
+    "title": "Apex Legends™: Marked",
+    "author": "Electronic Arts",
+    "date": 1785862855,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "vo_marketing_message"
+    ],
+    "contents": "This season, Bloodhound evolves into the ultimate predator, World’s Edge shifts with new POIs, and Corrupted Attachments arm every squad for the hunt. The gods are watching, prove you deserve their favor. The Hunter of Legends Blessed by the Allfather, Bloodhound evolves from skilled tracker to lethal hunter. Follow the trail with an improved Passive, keep prey in sight with longer Tactical scans, and strike from the shadows with the new Allfather’s Cloak Ultimate. Fresh Hunting Grounds World’s ..."
+  },
+  {
+    "gid": "1839676055895320",
+    "appid": 1172470,
+    "title": "Apex Legends™: Marked Patch Notes",
+    "author": "RSPN_Bean",
+    "date": 1785775720,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "INTROWelcome to the latest season of Apex Legends: MARKED. In addition to Bloodhound’s rework, buffs to Loba and Rampart, an energy weapon systems overhaul, and brand new Corrupted Attachments, we’re also bringing you a World’s Edge map rework, quality of life tweaks, and a slew of balancing changes. All of this is in pursuit of evolving Apex Legends into the best, most competitive Battle Royale out there. This season is going to push you and your squad to be the best you can possibly be, so get..."
+  },
+  {
+    "gid": "1839676055889220",
+    "appid": 1172470,
+    "title": "Marked Designer’s Notes",
+    "author": "RSPN_Bean",
+    "date": 1785527369,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "TL;DRBelow, we’ll provide insight into meta changes coming in our next season, Marked. We’ll discuss our goals and rationale for the changes for each of the following:Bloodhound’s ReworkLoba’s BuffRampart’s BuffValkyrie’s NerfAxle’s NerfSeer’s NerfWeapon UI Stats OverhaulNEW Corrupted AttachmentsRevamped Power JourneyINTRODUCTIONWelcome to Designer’s Notes for our next season - MARKED. We appreciate all the time you spent playing in the most recent season, and the feedback that you’ve provided. ..."
+  },
+  {
+    "gid": "1839041357038656",
+    "appid": 1172470,
+    "title": "Apex Legends: Marked Gameplay Trailer",
+    "author": "Electronic Arts",
+    "date": 1785253672,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Bloodhound claims the Allfather's blessing, becoming the hunter of Legends: stalking their prey with improved tracking and striking from the shadows with a new Ultimate. Claim new territory in the updated World's Edge, sharpen your arsenal with Corrupted Attachments, and tap into new power with Loba and Rampart buffs. Be the predator, or become prey. Learn more: http://x.ea.com/apxl/marked"
+  },
+  {
+    "gid": "1838407329269626",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 07/21/2026",
+    "author": "rspn_jax",
+    "date": 1784655189,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "✅FIXED:The mirrored text on Skippy's mythic Alternator skin has been fixed on all platforms except the Switch 2. The team will continue working to resolve this issue for Switch 2 users."
+  },
+  {
+    "gid": "1838407329257302",
+    "appid": 1172470,
+    "title": "Find Your Perfect Squadmate - Matchmaking Recruitment Drive",
+    "author": "rspn_jax",
+    "date": 1784221157,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Welcome to the Matchmaking Recruitment Drive for Split 2 of Season 29! It’s no secret, Apex Legends is best played alongside a squad that operates like a well oiled machine! Playing solo against fully coordinated enemy squads can be a challenge - so we wanted to help! In need of teammates that match your playstyle? We’ve got you covered! A fresh new squad in three easy steps: fill out the questions below, drop them in the thread, find your perfect squadmate.What server region are you in?What pla..."
+  },
+  {
+    "gid": "1838407329254889",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 07/15/2026",
+    "author": "rspn_jax",
+    "date": 1784137918,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "✅FIXED: Banners will no longer appear in Wildcard death boxes.💡KNOWN ISSUE: Our team is aware of a bug causing the mirrored presentation of \"SKIPPY\" on the Mythic Alternator skin. While we are selective about which weapons receive this level of granular detail due to the complexity of texturing and weapon variations, the mirrored text was not intended in this specific case. The team is actively working on a fix and hopes to have it resolved soon. We'll circle back with an update once the issue h..."
+  },
+  {
+    "gid": "1838407329252762",
+    "appid": 1172470,
+    "title": "Apex Legends™: Cyberpunk Event",
+    "author": "Electronic Arts",
+    "date": 1784068251,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Goooood morning Night City! The Outlands have been hacked and the Legends are getting chromed up. Welcome to Night City E-District, with towering neon skyboxes, holographic koi drifting through the sky, and glitched-out signage. So jack in, pop a fresh mag into Skippy, and try not to flatline.Two new Cyberware mods are flooding the streets in Wildcard: Sandevistan and Blackwall Breach. Sandevistan is wired for speed, granting quick dashes in any direction: chain two dashes before touching ground..."
+  },
+  {
+    "gid": "1837955055364081",
+    "appid": 1172470,
+    "title": "An Update from the Anti-Cheat Team - 07/13/2026",
+    "author": "RSPN_Bean",
+    "date": 1783965171,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Cheating has consequences beyond a single account. Since the end of April, we have executed nearly 6,000 hardware bans across PC and console. While the majority of those bans impacted players on PC, we are actively increasing our utilization of hardware bans on consoles. Hardware bans are one of many tools in our Anti-Cheat Team’s toolbelt and allow us to target systems designed to evade enforcement. Our tools identify repeat offenders and ensure that they will be unable to access Apex Legends, ..."
+  },
+  {
+    "gid": "1836506165584282",
+    "appid": 1172470,
+    "title": "An Update from the Anti Cheat Team - Auto Aim Manipulation",
+    "author": "RSPN_Bean",
+    "date": 1783620204,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Effective immediately, the use of “jitter aim” and/or RC filters to exploit aim assist systems and negate recoil on controllers is unequivocally considered cheating. We are taking a firm stance against players using these cheats and are taking action to stop them.Apex Legends is now equipped with the necessary in-game detections to identify and disable these exploits. Players who are caught attempting to use hardware or software to alter aim assist or recoil patterns will be flagged as cheaters ..."
+  },
+  {
+    "gid": "1836506165584157",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 7/9/2026",
+    "author": "RSPN_Bean",
+    "date": 1783618098,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hello, we just pushed a patch for the following: FIXED:A bug where some players experienced limited movement after landing from a dropshipE-District now uses the correct map overview"
+  },
+  {
+    "gid": "1836506165578721",
+    "appid": 1091500,
+    "title": "Cyberpunk Edgerunners' Lucy finds herself in yet another crossover, this time in an upcoming Apex Legends event",
+    "author": "",
+    "date": 1783447129,
+    "feedlabel": "Rock, Paper, Shotgun",
+    "feedname": "Rock, Paper, Shotgun",
+    "tags": null,
+    "contents": "Crikey, they sure do love putting Miss Lucy Cyberpunk in other games, don't they? First <a href=\"https://www.youtube.com/watch?v=hi76aA61PQQ\">Guilty Gear Strive</a>, then <a href=\"https://www.youtube.com/watch?v=1oEiFX1iASA\">Wuthering Waves</a>, and now the Cyberpunk Edgerunners characters is finding a facsimile of her visage transposed onto another's body as a skin in <a href=\"https://www.rockpapershotgun.com/games/apex-legends\">Apex Legends</a>. In fact, there's a whole Cyberpunk crossover coming, in a move from the battle royale that brings it closer and closer to Fortnite. <a href=\"https://www.rockpapershotgun.com/cyberpunk-edgerunners-lucy-finds-herself-in-yet-another-crossover-this-time-in-an-upcoming-apex-legends-event\">Read more</a> "
+  },
+  {
+    "gid": "1836506165578582",
+    "appid": 1172470,
+    "title": "Apex Legends x Cyberpunk",
+    "author": "Electronic Arts",
+    "date": 1783443855,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Welcome to the Apex Legends x Cyberpunk Event, where the neon lights of E-District beckon in Wildcard and Cyberware floods the streets. But be careful: reports of Cyberpsychosis are on the rise. Hunt down the Mythic Skippy Alternator and Iconic Legend skins, and earn Eddies throughout the event to spend in the Reward Shop.Learn more: http://x.ea.com/apxl/cyberpunk-event"
+  },
+  {
+    "gid": "1836506165578566",
+    "appid": 1172470,
+    "title": "Apex Legends™ EA Play* Weapon Charm",
+    "author": "rawoo",
+    "date": 1783443515,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Experience a world of thrill with EA Play. Join to get great player benefits and unlimited access to an unrivaled collection of EA’s fan-favorite franchises and top titles. Members can unlock rewards in the hottest titles each month, including Weapon Charms in Apex Legends. Dive into all the game-winning, world-creating, and galaxy-defining moments in The Play List or discover a new favorite with trials of select recent releases for up to 10 hours with no commitments. If you decide to buy, your ..."
+  },
+  {
+    "gid": "1836506165578561",
+    "appid": 1172470,
+    "title": "[AMA] Let’s talk Legend & Weapon meta!",
+    "author": "RSPN_Bean",
+    "date": 1783443392,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hey Legends!We’ll be answering as many questions as possible about Legend & Weapon meta this Wednesday, July 8, 2026, at 10 am PT.Drop your questions below ahead of our AMA and tune back for replies when we go live. As always, feedback is also welcome and we’ll be collecting everything to share with the team.Here’s our team on deck:RSPN_CaseroosRSPN_EricRSPN_JoshRSPN_JayBiebsReminder: Please keep your questions focused on Legends / Legend meta. Please limit comments to 1-2 related questions - yo..."
+  },
+  {
+    "gid": "1836506165569149",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 7/2/2026 3:15PM PT",
+    "author": "RSPN_Bean",
+    "date": 1783030489,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hi all, just pushed a couple more fixes. FIXED:Octane's jump pads will no longer bounce unintended objects (thank you for making the most of this bug with firing range clips, they made us chuckle).Made adjustments to further improve recent FPS fixes."
+  },
+  {
+    "gid": "1836506165568677",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 7/2/2026",
+    "author": "RSPN_Bean",
+    "date": 1783013733,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "FIXED:We just pushed a fix that should mitigate lingering FPS issues resulting from hardware-specific issues on some PCs since the beginning of the split. Your gameplay experience should be much smoother now."
+  },
+  {
+    "gid": "1836506165568615",
+    "appid": 1172470,
+    "title": "Apex Legends: Steam Survey",
+    "author": "RSPN_Bean",
+    "date": 1783012212,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hey Legends, We’re always looking for ways to improve how we support and engage players across our community spaces, including Steam Discussions.We would like your help with this 9 question survey. The survey is focused on understanding your experience with the Apex Legends Steam Discussions community space, including: What you expect when visiting Steam DiscussionsHow helpful and informative you find the spaceWhat kinds of support or communication matter most to youHow satisfied you are with th..."
+  },
+  {
+    "gid": "1836506165566400",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 7/1/26 as of 2:00pm PT",
+    "author": "RSPN_Bean",
+    "date": 1782939592,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Along with today's update, we made the following changes 🛠️ADJUSTED:Increased the audio volume when respawning from a Death Box to improve clarity✅FIXED:An issue where Sparrow could respawn with a fully charged Ultimate"
+  },
+  {
+    "gid": "1836506165566023",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 7/1/2026",
+    "author": "RSPN_Bean",
+    "date": 1782925781,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "FIXED:After resolving issues causing error code:truck on Steam and EA App last week, we're happy to confirm that this error code has been fixed on all consoles as well. Thank you for your patience on this issue.ADJUSTED:SeerReduced the Home Base (Faster Tact Charge in Ult zone) Upgrade modifier to 2.5. This will make the Tactical cooldown 8 seconds instead of 5 while in the Ult zone.Moved Home Base Upgrade to level 3Moved Energizing Focus (Regen shield on tact hit) Upgrade to level 2Dev note: We..."
+  },
+  {
+    "gid": "1836506165563881",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 6/30/2026",
+    "author": "RSPN_Bean",
+    "date": 1782863507,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "✅FIXED: We have now resolved the connection issues that were preventing players from connecting to the game. Thanks for your patience while we worked on a fix. INVESTIGATING: We're aware that some players are having trouble connecting to our servers. We're working on a fix and will share an update as soon as we have more information."
+  },
+  {
+    "gid": "1836506165555102",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 6/26/26",
+    "author": "RSPN_Bean",
+    "date": 1782504116,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hey all, we just made a couple adjustments to our game modes based on community feedback.WILDCARD:- In response to community feedback, we are converting Wildcard map rotations to a 90 minute timer! We are making this change to align with community desires and may test variations in rotation timing in future, all in pursuit of finding what players enjoy most.BOT ROYALE EVOLVED:- We have reduced Bot Royale Evolved lobbies to contain only one player squad with broad teammate matchmaking bands.- Sin..."
+  },
+  {
+    "gid": "1836506165552209",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 06/25/2026 - 5:20PM PT",
+    "author": "RSPN_karlee",
+    "date": 1782433233,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "One more fix for today! ✅FIXED: We’ve deployed a PC update to mitigate the recent FPS drops tied to specific hardware. Gameplay should feel much smoother now! We will continue monitoring performance as we work toward a permanent fix in an upcoming patch."
+  },
+  {
+    "gid": "1836506165552118",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 06/25/2026",
+    "author": "rspn_jax",
+    "date": 1782429827,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "✅FIXED: In addition to yesterday's fix for code:truck error on Steam, we have now resolved this issue on the EA App as well. We are on track to have this issue fixed for impacted players on console by Wednesday next week.⚠️INVESTIGATING: We are continuing to diagnose issues resulting in lowered FPS."
+  },
+  {
+    "gid": "1836506165547518",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 06/24/2026 - 6:00pm PT",
+    "author": "rspn_jax",
+    "date": 1782349597,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "Hey all, just pushed two more fixes! ✅FIXED: Resolved the issue causing stuttering when wiping a squad for players playing on the EA App. The fix requires the latest version of the EA App: https://help.ea.com/en/articles/platforms/ea-app-download-install-update/#update-the-ea-app🟢FIX ROLLING OUT: We have pushed a fix for players encountering code:truck error screens that will be rolling out over the next week. This solve is now live on Steam, and we are expecting it to hit EA App tomorrow aftern..."
+  },
+  {
+    "gid": "1836506165547342",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 6/24/26",
+    "author": "RSPN_Bean",
+    "date": 1782344541,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "FIXED: - Unprompted Mirage voicelines have been stopped. - Resolved an issue where some players lost control of the Legend upon landing from a dropship. - Resolved an issue that saw the Drop Zone removed from intended high-tier Ranked matches. INVESTIGATING: - We are actively working towards a fix for players experiencing crashes with the error Code:Truck. - We are continuing to diagnose issues resulting in lowered FPS. TEMPORARILY DEACTIVATED: - We are temporarily removing the ability for dead ..."
+  },
+  {
+    "gid": "1836506165546655",
+    "appid": 1172470,
+    "title": "Solo-Queue Test Scheduled for June 30th",
+    "author": "RSPN_Bean",
+    "date": 1782320437,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "The previously announced Diamond+ solo-queue-only test will start on June 30th at 10am PT and run until July 13th, or until we have gathered enough data.During this time, players ranked Diamond or higher will be unable to matchmake as premade squad in into Ranked.In addition to solidifying the dates of the test, we wanted to take this opportunity to clarify the reason for the delay:We mentioned in a recent matchmaking blog that we've been doing frequent and varied matchmaking tests and sometimes..."
+  },
+  {
+    "gid": "1835871199316532",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 06/23/2026",
+    "author": "rspn_jax",
+    "date": 1782241960,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "Hey all, busy start to Split 2. We're hard at work on the following.💡KNOWN ISSUES: - We are aware that some Ranked matches are starting with fewer than 60 players. We have a fix gradually rolling out and expect the issue to be fully resolved by the end of the day.- Map rotations have been erroneously reset to 24 hours. This issue will be resolved when the current 24 hour map rotation window expires. Maps will then rotate on 4.5 hour cycles again. ⚠️ INVESTIGATING: - We are looking into new issue..."
+  },
+  {
+    "gid": "1835871199313857",
+    "appid": 1172470,
+    "title": "Apex Legends™: Overclocked Midseason Patch Notes",
+    "author": "RSPN_Bean",
+    "date": 1782157234,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "INTROWelcome back to Overclocked Split 2! To start the latter half of the season, we’re bringing Legend balancing changes, new shotgun hop-ups, and various fixes and improvements that we think you’re going to like a lot. With all these changes landing on June 23rd, it’s the perfect time to grab your squad and dive into Overclocked!ANTI-CHEAT UPDATEWe cannot overstate the value we put on competitive integrity in Apex Legends; hopefully you’ve seen our incremental and seasonal recap account ban up..."
+  },
+  {
+    "gid": "1835871199305130",
+    "appid": 1172470,
+    "title": "Overclocked Midseason Designer’s Notes",
+    "author": "RSPN_Bean",
+    "date": 1781806065,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "TL;DRBelow, we will share insights into meta changes coming in 29.1. We’ll discuss the rationale for the implementations, including the opportunities we’ve identified, and our goals for each of the following:“Why wait to tweak Axle?”Axle Nerf DetailsBallistic RefreshPathfinder BuffSeer BuffMad Maggie NerfValkyrie NerfConduit NerfA New Shotgun Hop-Up, and A Hop Up ShuffleRegional Differences in PlayINTRODUCTIONWelcome to Designer’s Notes for Split 2 of Overclocked. We appreciate all the time you ..."
+  },
+  {
+    "gid": "1835871199302092",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 06/17/2026",
+    "author": "RSPN_Bean",
+    "date": 1781733993,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "INVESTIGATING: We are continuing to investigate visual and performance issues impacting players using specific PC hardware. -NVIDIA users: To alleviate some of these issues, please update to the newest driver, here: https://www.nvidia.com/en-us/drivers/details/272764/ -TEMPORARY WORKAROUND: Those experiencing stuttering or FPS drops on PC: Players have reported that switching from the EA App to Steam alleviates the issue in the short term."
+  },
+  {
+    "gid": "1835871199301465",
+    "appid": 1172470,
+    "title": "An Update from the Anti Cheat Team - 06/17/2026",
+    "author": "RSPN_Bean",
+    "date": 1781716471,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Over the past several months, the Anti-Cheat Team team has been developing, testing, and validating a *new* detection system which resulted in identifying and removing 1,000 accounts for using unauthorized software/gameplay enhancements, in its first week alone! These bans also targeted Xim and Titan users, expanding our protection against those cheating devices. This detection tool was deployed to the live game after extensive verification to ensure a high degree of accuracy. The 1,000 account ..."
+  },
+  {
+    "gid": "1834602721202756",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 6/9/2026",
+    "author": "RSPN_Bean",
+    "date": 1781030263,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "We just pushed an update for the following:FIXED:-\"Blind Box\" round modifier has been reactivated in the Power Trip event-Weapons granted during \"Red Handed\" rounds will no longer remain in death boxes after the round ends -Solo-queue test disabled and postponed to later in the split, as initially intended"
+  },
+  {
+    "gid": "1834602721199650",
+    "appid": 1172470,
+    "title": "Apex Legends: Matchmaking Tests Update",
+    "author": "RSPN_Bean",
+    "date": 1780938807,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "For a fully translated version of the update, see here.As part of our ongoing commitment to transparency, we’ve been more direct in sharing our approach to developing Apex Legends, a critical part of this approach is listening to you all in the community, understanding their needs, and working to address them. As such, we wanted to highlight the work being done on matchmaking to provide an even better experience for our players.Below, we’ll be discussing the frustrations we’re consistently worki..."
+  },
+  {
+    "gid": "1834602721191890",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 6/5/2026",
+    "author": "RSPN_Bean",
+    "date": 1780690130,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hello! We just pushed an update for the following.FIXED:-Resolved missing collision on structures near Stadium in E-District-Addressed areas of Clinic on Olympus where placeable abilities could not be deployed properly (Impacted abilities included: Newcastle's Castle Wall, Alter's Void Nexus, and other placeable deployables)-Corrected an issue where Vantage's target unlock sound effect could be heard by unintended players-Addressed an issue where players playing Conduit were experiencing FPS dro..."
+  },
+  {
+    "gid": "1834602721188472",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 6/4/2026",
+    "author": "RSPN_Bean",
+    "date": 1780598380,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "INVESTIGATING: We are looking into an issue where some players on PS4 or PS5 consoles are experiencing an unending update loop, or other functionality issues. Our recommended workaround at this point in time is a full Apex reinstall."
+  },
+  {
+    "gid": "1833968530901591",
+    "appid": 1172470,
+    "title": "Apex Legends™: Power Trip Event",
+    "author": "Electronic Arts",
+    "date": 1780436719,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Legends are pushing beyond their limits in the Power Trip Event! Check out new Wildcard round modifiers, bio-enhanced cosmetics, and more. Dive into Wildcard and see how far you can push yourself across 5 rounds. Some rounds are normal, but others will mutate with a random modifier that affects all Legends: Featherweight: Legends can jump higher, double jump, and fast fall while airborne. Armored Up: Gain Red Tier Armor and Knockdown Shield Red Handed: All weapons are upgraded to Mythic. (And we..."
+  },
+  {
+    "gid": "1833968530901182",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 6/2/2026",
+    "author": "RSPN_Bean",
+    "date": 1780422322,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hello! A small update just went live with the following fixes FIXED:• Buildings on Kings Canyon will no longer become out of bounds after reinforcing Hard Light• Players will now respawn with a white backpack after being respawned at a Respawn Beacon"
+  },
+  {
+    "gid": "1833968530898933",
+    "appid": 1172470,
+    "title": "Apex Legends™ EA Play* Weapon Charm",
+    "author": "Electronic Arts",
+    "date": 1780353495,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Experience a world of thrill with EA Play. Join to get great player benefits and unlimited access to an unrivaled collection of EA’s fan-favorite franchises and top titles. Members can unlock rewards in the hottest titles each month, including Weapon Charms in Apex Legends. Dive into all the game-winning, world-creating, and galaxy-defining moments in The Play List or discover a new favorite with trials of select recent releases for up to 10 hours with no commitments.If you decide to buy, your p..."
+  },
+  {
+    "gid": "1833968530892607",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 5/29/2026",
+    "author": "RSPN_karlee",
+    "date": 1780101064,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "Hi all, we have a couple of balance updates that we just pushed live!🛠️ADJUSTED:AXLE - Nitro GateReduced max in-world count from 3 to 2Reduced hp from 150 to 100CONDUIT - Radiant TransferDecreased regen rate from 15/s to 10/sIncreased regen duration from 6s to 8sDecreased total ally regen from 90 to 80Decreased total self-regen from 60 to 56Increased Instant Barrier regen duration from 4s to 6s"
+  },
+  {
+    "gid": "1833968530889018",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 5/28/2026",
+    "author": "RSPN_Bean",
+    "date": 1779990493,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hey all, we have pushed the following fixes to the live game:FIXED:Teammates can now see Vantage's pings as intendedSeer's Ultimate now displays enemy footsteps as intendedAxle's Kickstart explosion now clears smoke and gas in its AoE (similar to other explosions)The Turbocharger hop-up UI now accurately displays necessary informationPlayers are able to craft at a Replicator in Wildcard without input delay in the menusAdjustments to shadows and highlights on Kings Canyon and OlympusPerformance i..."
+  },
+  {
+    "gid": "1833968530888922",
+    "appid": 1172470,
+    "title": "Apex Legends™: Power Trip Event",
+    "author": "Electronic Arts",
+    "date": 1779988361,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Legends are pushing beyond their limits in the Power Trip Event! Check out new Wildcard round modifiers, bio-enhanced cosmetics, and more. Dive into Wildcard and see how far you can push yourself across 5 rounds. Some rounds are normal, but others will mutate with a random modifier that affects all Legends: Featherweight: Legends can jump higher, double jump, and fast fall while airborne. Armored Up: Gain Red Tier Armor and Knockdown Shield Red Handed: All weapons are upgraded to Mythic. (And we..."
+  },
+  {
+    "gid": "1833968530886789",
+    "appid": 1172470,
+    "title": "Latest Update 5/27/26 (As of 5:16 PM PT)",
+    "author": "RSPN_karlee",
+    "date": 1779927742,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "📝KNOWN WORKAROUND:For players experiencing visual issues, diminished performance, or blue screen crashes - especially since yesterday, 5/26 - please consider rolling back any recent driver updates. Our recent suggestion to update AMD drivers is separate from this concern.⚠️INVESTIGATING:Our team is continuing to investigate issues resulting in FPS drops or stuttering after killing an enemy, related to specific hardware."
+  },
+  {
+    "gid": "1833968530886530",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 05/27/2026",
+    "author": "RSPN_Bean",
+    "date": 1779916723,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "REMINDER:For players crashing in the lobby on AMD Radeon RX 400/500 cards, please update to the most recent drivers"
+  },
+  {
+    "gid": "1833968530882808",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 5/26/26",
+    "author": "RSPN_Bean",
+    "date": 1779833828,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "FIXED:-When using requeue functions, tier restrictions now work properly -Storm Point has replaced Kings Canyon in map rotation -Players who previously experienced crashes on Storm Point should ensure they have updated their GPU drivers"
+  },
+  {
+    "gid": "1833334318579910",
+    "appid": 1172470,
+    "title": "[AMA] Chatting about Axle, with Axle herself",
+    "author": "RSPN_Bean",
+    "date": 1779814778,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hey, r/ApexLegends!With Axle’s arrival in Apex Legends, we want to give you all a chance to get to know her a little better. We released a video about Axle’s background lore, but we want you to be able to dive deeper!So, AXLE will be joining us to answer as many questions about her history as possible starting Wednesday, May 27, 2026, at 10:00am PT. Drop your questions here ahead of our AMA and tune back for replies when we go live. Reminder: please keep your questions focused on Axle’s lore (no..."
+  },
+  {
+    "gid": "1833334318571888",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 5/22/202 (As of 3:20pm PT)",
+    "author": "RSPN_Bean",
+    "date": 1779459325,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "As of 3:20pm PT: We have pushed a fix to today's matchmaking issues. Players should now be able to access matches without issue. Thank you, again, for your patience. As of 11:20pm PT: Our fix to resolve the matchmaking outage resulted in an adjacent, unforeseen issue now preventing players from joining matches. Our team is continuing to work on this and is hoping to have it resolved ASAP. As of 10:49am PT: We have resolved the issues that were preventing players from joining a match. Players sho..."
+  },
+  {
+    "gid": "1833334318569602",
+    "appid": 1172470,
+    "title": "An Update from the Anti Cheat Team - 05/21/2026",
+    "author": "RSPN_Bean",
+    "date": 1779382810,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "With Season 29 underway, we wanted to look back at Season 28, share ban numbers and showcase the anti-cheat work that went into one of our most secure seasons yet!For the entirety of Season 28 (Feb 10- May 5), across all platforms, we issued a total of 139,697 bans on accounts for various cheating infractions. Some highlights for specific bans: DMA: 4,290 HWID Spoofer: 7,136 Automatic Hardware Detection: 10,658 Xim/Titan: 3,865 We removed a total of 7,912,251 RP from accounts with confirmed chea..."
+  },
+  {
+    "gid": "1833334318567481",
+    "appid": 1172470,
+    "title": "Upcoming Matchmaking Test: Diamond + Solo Queue Only",
+    "author": "RSPN_Bean",
+    "date": 1779315675,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "TESTING: From June 9th to June 23rd we will be conducting the following test in Ranked:Ranked will be solo queue only for all players Diamond and above. If you are Diamond or higher, you will not be able to squad up as a premade in Ranked.Our hypotheses are that this will create more evenly matched high-skill lobbies, reduce hard-carries into Diamond, Master and Predator and build trust in the overall fairness of these matches.While this is a commonly requested feature by portions of our communi..."
+  },
+  {
+    "gid": "1833334318564947",
+    "appid": 1172470,
+    "title": "Matchmaking Test, Now Live",
+    "author": "rspn_jax",
+    "date": 1779233822,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "Hi all, after a brief delay, we have started the following matchmaking test:Players can only join premade squads containing squadmates with a differential of ONE Ranked tier (down from two).As a reminder, we are looking to create tighter lobbies; our expectation is that, by limiting players from creating squads with wide skill bands, you will more consistently match against similar-skilled opponents, creating a more fair, competitive experience.The test will run until the end of the split (June ..."
+  },
+  {
+    "gid": "1832700592801549",
+    "appid": 1172470,
+    "title": "Matchmaking Test - Short Delay",
+    "author": "RSPN_Bean",
+    "date": 1779210185,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "UPDATE: We are delaying the start time of today's matchmaking test. Originally meant to start at 10am PT, we are adjusting the test timeline and will let you know when we push the test live."
+  },
+  {
+    "gid": "1832700592799185",
+    "appid": 1172470,
+    "title": "Test: Ranked Premades Limited to 1 Tier",
+    "author": "RSPN_Bean",
+    "date": 1779124857,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "📋TESTING:Starting tomorrow, May 19th, at 10am PT, we will be conducting the following test in Ranked:Players can only join premade squads containing squadmates with a differential of ONE Ranked tier (down from two).We are looking to create tighter lobbies; our expectation is that, by limiting players from creating squads with wide skill bands, you will more consistently match against similar-skilled opponents, creating a more fair, competitive experience. The test will run until the end of the s..."
+  },
+  {
+    "gid": "1832700592787573",
+    "appid": 1172470,
+    "title": "Find Your Perfect Squadmate - Matchmaking Recruitment Drive",
+    "author": "RSPN_Bean",
+    "date": 1778709424,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Welcome to the Season 29 Matchmaking Recruitment Drive! It’s no secret, Apex Legends is best played alongside a squad that operates like a well oiled machine! Playing solo against fully coordinated enemy squads can be a challenge - so we wanted to help! In need of teammates that match your playstyle? We’ve got you covered! A fresh new squad in three easy steps: fill out the questions below, drop them in the thread, find your perfect squadmate.What server region are you in?What platform do you pl..."
+  },
+  {
+    "gid": "1832065502822608",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 5PM PT",
+    "author": "RSPN_Bean",
+    "date": 1778543713,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "FIXED:Improved transition screen UI to better indicate the game is still loadingReduced the color overlay effect of Conduit's passive"
+  },
+  {
+    "gid": "1832065502822005",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 5/11/2026",
+    "author": "RSPN_Bean",
+    "date": 1778519769,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "⚠️INVESTIGATING:-We’re aware of an issue where some graphics and brightness settings reset after relaunching Apex. A fix is incoming, and we expect this to be resolved soon.-We are also investigating issues where players respawned from beacons return to the match without a white backpack, and those respawned from deathbox lose their weapon hop ups.-We are investigating reports of performance issues on various devices/hardware."
+  },
+  {
+    "gid": "1832065502812681",
+    "appid": 1172470,
+    "title": "Apex Legends™ EA Play* Weapon Charm",
+    "author": "Electronic Arts",
+    "date": 1778170308,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Experience a world of thrill with EA Play. Join to get great player benefits and unlimited access to an unrivaled collection of EA’s fan-favorite franchises and top titles. Members can unlock rewards in the hottest titles each month, including Weapon Charms in Apex Legends. Dive into all the game-winning, world-creating, and galaxy-defining moments in The Play List or discover a new favorite with trials of select recent releases for up to 10 hours with no commitments. If you decide to buy, your ..."
+  },
+  {
+    "gid": "1832065502810393",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 05/06/2026",
+    "author": "rspn_jax",
+    "date": 1778106301,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "✅FIXED:- We resolved an issue where players were able to exploit Axle's movement, resulting in an indefinite slide⚠️INVESTIGATING:- We are temporarily disabling voice comms for players on Xbox systems to investigate their contribution to a game crash. Xbox players will not be able to hear or speak to other players, regardless of platform.- We are also investigating a recent issue resulting in FPS drops, likely tied to specific CPUs.We will provide updates as they become available to us!"
+  },
+  {
+    "gid": "1831432155581392",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 05/05/2026, 2:00pm PT",
+    "author": "rspn_jax",
+    "date": 1778015010,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "patchnotes"
+    ],
+    "contents": "⚠️INVESTIGATING:We are looking into an issue preventing players from purchasing the Ultimate+ Battle Pass tier on any Xbox platform. Our current recommended workaround is to try from the Microsoft Store, where possible.We are also tracking a crash impacting Xbox Series machines. We have located the issue and are working towards a fix.We're hoping to have these issues resolved soon and will relay updates as they come."
+  },
+  {
+    "gid": "1831432155581061",
+    "appid": 1172470,
+    "title": "Matchmaking Outage - 05/05/2026 11:30am PT",
+    "author": "RSPN_Bean",
+    "date": 1778005857,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "UPDATE - 1:41pm PT Our team has located and resolved the issues preventing players from matchmaking. Everyone should now be able to join matches in all game modes without issue!Thank you again for your patience. Investigating: We are working to resolve an issue preventing players from Matchmaking into games. We will provide more information as the situation unfolds. Thank you for your patience. "
+  },
+  {
+    "gid": "1831432155580821",
+    "appid": 1172470,
+    "title": "Apex Legends™: Overclocked",
+    "author": "Electronic Arts",
+    "date": 1778002277,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "vo_marketing_message"
+    ],
+    "contents": "Hit the throttle with Axle, the combat racer who isn’t afraid to push past her limits. Her kit rewards high-skill movement and fearless play: use Drift for increased slide control, throw down a Nitro Gate to launch into a boosted slide, and deploy an enemy-seeking drone with her Kickstart Ultimate. Deathbox Respawns: Win the fight but lose a teammate? Revive squadmates directly at their deathbox with a short cast, no beacon hunting required. Get them back in the action instantly and keep your mo..."
+  },
+  {
+    "gid": "1831432155580745",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update - 05/05/2026",
+    "author": "RSPN_Bean",
+    "date": 1778000518,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "ADJUSTED:We are implementing 4.5 hour map rotations in Ranked for all regions!After testing 4.5 hour rotations in our East Asia servers late in Season 28, we believe implementing this cadence in all servers will have a positive impact on the playerbase by enabling more map variety. This means players can engage on their favourite maps more often, or feel less “trapped” on their least favourite maps.During the initial test we saw positive player sentiment regarding the opportunity to potentially ..."
+  },
+  {
+    "gid": "1831432155578176",
+    "appid": 1172470,
+    "title": "Overclocked Patch Notes",
+    "author": "rspn_jax",
+    "date": 1777915911,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Overclocked is locked and loaded and ready to go! In Season 29 of the Apex Games we are not only focused on delivering exciting, new seasonal content, but addressing key feedback from our player-base. A brand new Legend, Axle, joins the fray and this combat racer is bound to shake things up. Vantage, Conduit and Ash are getting buffs to keep up with the breakneck pace. We’re introducing Deathbox Respawns and Chained Healing to get you and your teammates back into the fight sooner. The starting l..."
+  },
+  {
+    "gid": "1831432155572008",
+    "appid": 1172470,
+    "title": "Overclocked Designer’s Notes",
+    "author": "RSPN_Bean",
+    "date": 1777655365,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "TLDR;Welcome back! Below, we will share insights into meta changes and new mechanics coming in 29.0. We’ll discuss the rationale for the implementations, including the opportunities we’ve identified, and our desired impact for each of the following:Apex’s NEWEST Legend: AxleThe NEW Deathbox Respawn mechanicThe NEW Chain Healing mechanicGiving Vantage some advantageMaking Conduit a more appealing pickSettling down Alter’s dominanceNote: As the weapons team was laser-focused on introducing a new E..."
+  },
+  {
+    "gid": "1831432155568816",
+    "appid": 1172470,
+    "title": "Apex Legends: Overclocked Gameplay Trailer",
+    "author": "Electronic Arts",
+    "date": 1777565367,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Fortune favors the fearless in Apex Legends: Overclocked! New Legend Axle comes in hot with a mobile kit, Deathbox Respawns keep you in the fight, plus Conduit and Vantage updates, and more. Learn more: http://x.ea.com/apxl/overclockedApex Legends™ is a free-to-play* battle royale game where legendary characters battle for glory, fame, and fortune on the fringes of the Frontier. Play for free now on PlayStation® 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch™ 2, and PC via EA App, ..."
+  },
+  {
+    "gid": "1831432155568807",
+    "appid": 1172470,
+    "title": "New Updates Coming with Apex Legends™: Overclocked",
+    "author": "RSPN_Bean",
+    "date": 1777565256,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "NEW UPDATES COMING WITH APEX LEGENDS™: OVERCLOCKEDThe start of a new season seems like a great time to check in on The Road Ahead.When we released this roadmap earlier this year, we told you that what we had on the graphic was just the start. We’re excited to announce a new addition: a Major Ranked Update is slated for Season 32. We hear your continued feedback and know that Ranked is an important part of your Apex Legends journey. Our team is continuously working on the Ranked mode, testing and..."
+  },
+  {
+    "gid": "1830797770245734",
+    "appid": 1172470,
+    "title": "Apex Legends: Overclocked Anthem Trailer",
+    "author": "Electronic Arts",
+    "date": 1777389568,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Push it past possible. She doesn’t test limits. She breaks them. Meet Axle. Learn more: http://x.ea.com/apxl/overclockedApex Legends™ is a free-to-play* battle royale game where legendary characters battle for glory, fame, and fortune on the fringes of the Frontier. Play for free now on PlayStation® 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch™ 2, and PC via EA App, Epic Games Store and Steam: http://x.ea.com/57366Check out our YouTube channel: http://x.ea.com/56710Follow us on X..."
+  },
+  {
+    "gid": "1830797770236966",
+    "appid": 1172470,
+    "title": "Anti-Cheat Team - 04/24/2026",
+    "author": "RSPN_Bean",
+    "date": 1777052133,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "As we move into the midway point of split 2 for Season 28, we wanted to share some ban numbers and an update on the infection rate of Apex.Since our last post on April 2nd, across all platforms, we have banned a total of 28,267 accounts for various cheating infractions. One highlight from these two weeks of numbers is nearly 1000 bans for DMA card use. RP Removed for S28: 6,655,192 Split 1: 4,413,776 Split 2: 2,241,416 Another highlight and major milestone for the Anti Cheat team is that we have..."
+  },
+  {
+    "gid": "1830163047261349",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 4/17/26",
+    "author": "RSPN_Bean",
+    "date": 1776458197,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hey all, a quick follow up to the bug updates from yesterday. We had to roll back the initial fix, but believe everything should be in order now! FIXED:Battlepass progress now extends beyond level 60, as intendedDaily and Weekly Challenges now appropriately contribute to Battlepass progressionZero Strike skydive emote image displays placeholder texture"
+  },
+  {
+    "gid": "1830163047258708",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 4/16/2026",
+    "author": "RSPN_Bean",
+    "date": 1776378985,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "INVESTIGATING:We are looking into an uptick of matches moving sluggishly (slomo servers). Our team's investigation has already revealed that players likely started seeing an increased rate of slomo servers on April 10th. We will continue to work on this issue and will inform you all when we have an update. Thank you for your patience."
+  },
+  {
+    "gid": "1830163047258207",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 4/16/2026",
+    "author": "RSPN_Bean",
+    "date": 1776362256,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hey all, we just pushed a couple of quick bug fixes FIXED:The 28.1 Battlepass Badge now continues beyond level 60, as intended.Zero Strike skydive emote image now displays correctly.\\We've had to revert these fixes as there are still issues with badge progression.We'll come back with another solution later on, and share more info when we have it."
+  },
+  {
+    "gid": "1829528821318497",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 4/14/2026",
+    "author": "RSPN_Bean",
+    "date": 1776186613,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hey all, we have made the following changes.FIXED:Catalyst's Toxic Empress skin now has the appropriate glow visual effects, in-matchValkyrie's jetpack handles are no longer missing in specific scenarios Fuse's Knuckle Cluster holder is now properly displayedWattson players will no longer hear Hardlight rebuilding and being destroyed as a result of her tactical/ultimate placement in the ringGame stability improvements on the Switch 2We are also making the following changes to matchmaking in an e..."
+  },
+  {
+    "gid": "1829528821311125",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 4/10/2026",
+    "author": "RSPN_Bean",
+    "date": 1775850462,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": [
+      "mod_reviewed",
+      "ModAct_1294976491_1775852830_0",
+      "mod_require_rereview"
+    ],
+    "contents": "Hi all, we just pushed an update to address the following: FIXED:Reactive skins will now work as intended in and outside of the firing rangeWraith, while phased, will no longer be stunned by Gibraltar's electrified dome We have also made some changes to the Hemlok based on data and community feedback since our last round of changes to the Hemlok.ADJUSTED:Increased horizontal and vertical recoilIncreased hipfire spreadDEV TIDBIT:The Hemlok's recoil was a little too smooth (\"smooth as butter\", as ..."
+  },
+  {
+    "gid": "1829528821305014",
+    "appid": 1172470,
+    "title": "Apex Legends: Latest Update 4/8/2026",
+    "author": "RSPN_Bean",
+    "date": 1775673227,
+    "feedlabel": "Community Announcements",
+    "feedname": "steam_community_announcements",
+    "tags": null,
+    "contents": "Hi everyone, we just pushed the following changes to the live game: FIXED-Bot Royale Evolved matches on E-District should now start as intended-Wildcard event prompts are now appropriately displayed in all languages-\"Energy Efficient\" Wild Card has been re-enabled ADJUSTED The following tactical and ultimate projectiles can no longer be caught by the Vortex Shield:-Bangelore's tactical-Bangelore's ultimate-Catalyst's tactical-Caustic's ultimate-Gibby's ultimate-Sparrow's tactical Vantage's ultim..."
+  }
+]

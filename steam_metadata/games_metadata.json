@@ -1,0 +1,308 @@
+{
+  "730": {
+    "appid": 730,
+    "name": "Counter-Strike 2",
+    "type": "game",
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Surround Sound",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Steam Timeline"
+    ],
+    "release_date": "15 Sep, 2017",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "supported_languages": "Czech, Danish, Dutch, English<strong>*</strong>, Finnish, French, German, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Spain, Swedish, Thai, Traditional Chinese, Turkish, Bulgarian, Ukrainian, Greek, Spanish - Latin America, Vietnamese, Indonesian<br><strong>*</strong>languages with full audio support",
+    "recommendations": 5290032,
+    "price_usd": null
+  },
+  "570": {
+    "appid": 570,
+    "name": "Dota 2",
+    "type": "game",
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "SteamVR Collectibles",
+      "In-App Purchases",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Valve Anti-Cheat enabled",
+      "Steam Timeline"
+    ],
+    "release_date": "9 Jul, 2013",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "supported_languages": "Bulgarian, Czech, Danish, Dutch, English<strong>*</strong>, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean<strong>*</strong>, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese<strong>*</strong>, Spanish - Spain, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Spanish - Latin America, Vietnamese<br><strong>*</strong>languages with full audio support",
+    "recommendations": 14373,
+    "price_usd": null
+  },
+  "1172470": {
+    "appid": 1172470,
+    "name": "Apex Legends™",
+    "type": "game",
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Chat Speech-to-text",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualSense Controller Support",
+      "DualSense Controller Support"
+    ],
+    "release_date": "4 Nov, 2020",
+    "developers": [
+      "Respawn"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese, Spanish - Latin America, Arabic<br><strong>*</strong>languages with full audio support",
+    "recommendations": 1582,
+    "price_usd": null
+  },
+  "578080": {
+    "appid": 578080,
+    "name": "PUBG: BATTLEGROUNDS",
+    "type": "game",
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Custom Volume Controls",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Stats",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "release_date": "21 Dec, 2017",
+    "developers": [
+      "PUBG Corporation"
+    ],
+    "publishers": [
+      "KRAFTON, Inc."
+    ],
+    "supported_languages": "English, Korean, Simplified Chinese, French, German, Spanish - Spain, Arabic, Japanese, Polish, Portuguese - Portugal, Russian, Turkish, Thai, Italian, Portuguese - Brazil, Traditional Chinese, Ukrainian",
+    "recommendations": 1767616,
+    "price_usd": null
+  },
+  "440": {
+    "appid": 440,
+    "name": "Team Fortress 2",
+    "type": "game",
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes level editor",
+      "Commentary available",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
+    ],
+    "release_date": "10 Oct, 2007",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "supported_languages": "English<strong>*</strong>, Danish, Dutch, Finnish, French, German, Italian, Japanese, Norwegian, Polish, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Spain, Swedish, Traditional Chinese, Korean, Czech, Hungarian, Portuguese - Brazil, Turkish, Greek, Bulgarian, Romanian, Thai, Ukrainian, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+    "recommendations": 47936,
+    "price_usd": null
+  },
+  "271590": {
+    "appid": 271590,
+    "name": "Grand Theft Auto V Legacy",
+    "type": "game",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
+    ],
+    "release_date": "13 Apr, 2015",
+    "developers": [
+      "Rockstar North"
+    ],
+    "publishers": [
+      "Rockstar Games"
+    ],
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Traditional Chinese, Japanese, Simplified Chinese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+    "recommendations": 1896482,
+    "price_usd": null
+  },
+  "252490": {
+    "appid": 252490,
+    "name": "Rust",
+    "type": "game",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Remote Play on Tablet"
+    ],
+    "release_date": "8 Feb, 2018",
+    "developers": [
+      "Facepunch Studios"
+    ],
+    "publishers": [
+      "Facepunch Studios"
+    ],
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Ukrainian<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Turkish<strong>*</strong>, Arabic, Czech, Danish, Dutch, Finnish, Greek, Norwegian, Portuguese - Brazil, Spanish - Latin America, Swedish, Traditional Chinese, Vietnamese<br><strong>*</strong>languages with full audio support",
+    "recommendations": 1171061,
+    "price_usd": "¥ 138.00"
+  },
+  "1085660": {
+    "appid": 1085660,
+    "name": "Destiny 2",
+    "type": "game",
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "DualShock Controller Support",
+      "DualSense Controller Support",
+      "Subtitle Options",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "release_date": "1 Oct, 2019",
+    "developers": [
+      "Bungie"
+    ],
+    "publishers": [
+      "Bungie"
+    ],
+    "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+    "recommendations": 139615,
+    "price_usd": null
+  }
+}

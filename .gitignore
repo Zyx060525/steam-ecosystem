@@ -1,0 +1,23 @@
+# ===== 完整原始数据（不上传，可通过脚本重建）=====
+# Steam 评论全量数据集（13.25GB，太大）
+steam_reviews/SteamReviews2024/
+
+# 在线人数采集数据（可由爬虫重建）
+steam_online/steam_online.csv
+steam_online/steam_online_raw.csv
+steam_online/steam_online_top100.csv
+
+# 硬件调查原始数据（可由 GitHub 仓库 jdegene/steamHWsurvey 重建）
+steamHWsurvey/shs.csv
+steamHWsurvey/shs_platform.csv
+
+# ===== 临时文件 =====
+*.log
+*.pid
+*.zip
+*.archive
+*.baiduyun.uploading.cfg
+news_test.json
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
