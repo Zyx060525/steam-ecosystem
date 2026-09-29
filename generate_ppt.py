@@ -35,7 +35,7 @@ def add_bullet_slide(title, bullets):
 
 
 # 1 封面
-add_title_slide("Steam 游戏生态的多维画像", "多源多维度数据采集、融合分析与可视化\n《大数据原理与应用》中期作业 · 组员：XXX")
+add_title_slide("Steam 游戏生态的多维画像", "多源多维度数据采集、融合分析与可视化\n《大数据原理与应用》中期作业\n组长：张艺轩  组员：徐梓涵、周宇琪、王书卿、王文莉")
 
 # 2 选题与背景
 add_bullet_slide("选题与背景", [

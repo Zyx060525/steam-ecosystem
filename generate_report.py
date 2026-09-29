@@ -13,6 +13,7 @@ doc = Document()
 doc.add_heading("Steam 游戏生态的多维画像", level=0)
 doc.add_paragraph("——多源多维度数据采集、融合分析与可视化")
 doc.add_paragraph("《大数据原理与应用》课程中期大作业")
+doc.add_paragraph("组长：张艺轩    组员：徐梓涵、周宇琪、王书卿、王文莉")
 
 # 一、项目概述
 doc.add_heading("一、项目概述与选题", level=1)
