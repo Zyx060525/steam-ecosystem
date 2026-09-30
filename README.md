@@ -35,6 +35,8 @@
 ├── analysis/               # 分析与数据挖掘
 ├── visualization/          # 可视化代码与结果（5 张核心图）
 ├── data_sources.md         # 数据源清单
+├── collection_log.md       # 采集日志
+├── data_summary.md         # 数据规模统计
 ├── AI_USAGE.md             # AI 使用记录
 └── README.md
 ```
